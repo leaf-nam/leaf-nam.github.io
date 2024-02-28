@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 28 Feb 2024 21:06:14 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>블로그를 쓰게 된 계기와 앞으로의 방향성</title>
+      <link>https://leaf-nam.github.io/posts/post_240228/</link>
+      <pubDate>Wed, 28 Feb 2024 21:06:14 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/post_240228/</guid>
+      <description>내 첫번째 블로그 포스팅</description>
+    </item>
   </channel>
 </rss>
