@@ -11,14 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 21:28:56 +0900</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post1</title>
-      <link>https://leaf-nam.github.io/posts/blog/post_240229/</link>
-      <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/blog/post_240229/</guid>
-      <description>Desc Text.</description>
-    </item>
   </channel>
 </rss>
