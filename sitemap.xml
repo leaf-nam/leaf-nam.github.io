@@ -2,31 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leaf-nam.github.io/tags/blog-management/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/categories/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/tags/choices/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/categories/documentation/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/tags/plan/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/posts/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/tags/</loc>
-    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
+    <loc>https://leaf-nam.github.io/posts/blog/ssg%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC_240302/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/posts/blog/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EC%A2%85%EB%A5%98%EC%99%80_%EC%84%A0%ED%83%9D_240229/</loc>
     <lastmod>2024-02-29T21:28:56+09:00</lastmod>
   </url><url>
+    <loc>https://leaf-nam.github.io/posts/blog/</loc>
+    <lastmod>2024-02-29T06:16:48+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%93%B0%EA%B2%8C_%EB%90%9C_%EA%B3%84%EA%B8%B0%EC%99%80_%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98_%EB%B0%A9%ED%96%A5%EC%84%B1_240228/</loc>
+    <lastmod>2024-02-28T21:06:14+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/blog-management/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/categories/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/concept/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/categories/documentation/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/hugo/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/jekyll/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/next.js/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/posts/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/ssg/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
     <loc>https://leaf-nam.github.io/</loc>
+    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/choices/</loc>
+    <lastmod>2024-02-29T21:28:56+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/plan/</loc>
     <lastmod>2024-02-29T21:28:56+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/tags/blog/</loc>
@@ -38,22 +62,13 @@
     <loc>https://leaf-nam.github.io/tags/github/</loc>
     <lastmod>2024-02-29T06:16:48+09:00</lastmod>
   </url><url>
-    <loc>https://leaf-nam.github.io/tags/hugo/</loc>
-    <lastmod>2024-02-29T06:16:48+09:00</lastmod>
-  </url><url>
     <loc>https://leaf-nam.github.io/tags/papermod/</loc>
-    <lastmod>2024-02-29T06:16:48+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/posts/blog/</loc>
     <lastmod>2024-02-29T06:16:48+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/tags/diary/</loc>
     <lastmod>2024-02-28T21:06:14+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/categories/diary/</loc>
-    <lastmod>2024-02-28T21:06:14+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EC%93%B0%EA%B2%8C_%EB%90%9C_%EA%B3%84%EA%B8%B0%EC%99%80_%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98_%EB%B0%A9%ED%96%A5%EC%84%B1_240228/</loc>
     <lastmod>2024-02-28T21:06:14+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/series/</loc>

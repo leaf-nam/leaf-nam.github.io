@@ -6,13 +6,48 @@
     <description>Recent content in Tags on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 29 Feb 2024 21:28:56 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 07:28:40 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Management</title>
       <link>https://leaf-nam.github.io/tags/blog-management/</link>
-      <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate>
+      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/blog-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concept</title>
+      <link>https://leaf-nam.github.io/tags/concept/</link>
+      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/concept/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://leaf-nam.github.io/tags/hugo/</link>
+      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jekyll</title>
+      <link>https://leaf-nam.github.io/tags/jekyll/</link>
+      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Next.js</title>
+      <link>https://leaf-nam.github.io/tags/next.js/</link>
+      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/next.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssg</title>
+      <link>https://leaf-nam.github.io/tags/ssg/</link>
+      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/ssg/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +83,6 @@
       <link>https://leaf-nam.github.io/tags/github/</link>
       <pubDate>Thu, 29 Feb 2024 06:16:48 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://leaf-nam.github.io/tags/hugo/</link>
-      <pubDate>Thu, 29 Feb 2024 06:16:48 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
