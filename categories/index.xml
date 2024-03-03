@@ -6,12 +6,19 @@
     <description>Recent content in Categories on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 02 Mar 2024 07:28:40 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 07:49:45 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Management</title>
+      <link>https://leaf-nam.github.io/categories/blog-management/</link>
+      <pubDate>Sun, 03 Mar 2024 07:49:45 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/categories/blog-management/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Documentation</title>
       <link>https://leaf-nam.github.io/categories/documentation/</link>
-      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
+      <pubDate>Thu, 29 Feb 2024 06:16:48 +0900</pubDate>
       <guid>https://leaf-nam.github.io/categories/documentation/</guid>
       <description></description>
     </item>
