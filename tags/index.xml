@@ -6,12 +6,26 @@
     <description>Recent content in Tags on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 Mar 2024 07:49:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 16:50:39 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy</title>
+      <link>https://leaf-nam.github.io/tags/deploy/</link>
+      <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/deploy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://leaf-nam.github.io/tags/git/</link>
+      <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/git/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
       <link>https://leaf-nam.github.io/tags/hugo/</link>
-      <pubDate>Sun, 03 Mar 2024 07:49:45 +0900</pubDate>
+      <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/hugo/</guid>
       <description></description>
     </item>
