@@ -6,8 +6,29 @@
     <description>Recent content in Tags on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 04 Mar 2024 16:50:39 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 19:08:20 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://leaf-nam.github.io/tags/blog/</link>
+      <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comment</title>
+      <link>https://leaf-nam.github.io/tags/comment/</link>
+      <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/comment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utterances</title>
+      <link>https://leaf-nam.github.io/tags/utterances/</link>
+      <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/utterances/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Deploy</title>
       <link>https://leaf-nam.github.io/tags/deploy/</link>
@@ -118,13 +139,6 @@
       <link>https://leaf-nam.github.io/tags/velog/</link>
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/velog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://leaf-nam.github.io/tags/blog/</link>
-      <pubDate>Thu, 29 Feb 2024 06:16:48 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/tags/blog/</guid>
       <description></description>
     </item>
     <item>
