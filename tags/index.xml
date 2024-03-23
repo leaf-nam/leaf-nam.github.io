@@ -6,20 +6,34 @@
     <description>Recent content in Tags on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 20 Mar 2024 23:43:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 23:19:23 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Junit</title>
+      <link>https://leaf-nam.github.io/tags/junit/</link>
+      <pubDate>Sat, 23 Mar 2024 23:19:23 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/junit/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Springboot</title>
       <link>https://leaf-nam.github.io/tags/springboot/</link>
-      <pubDate>Wed, 20 Mar 2024 23:43:14 +0900</pubDate>
+      <pubDate>Sat, 23 Mar 2024 23:19:23 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/springboot/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips</title>
       <link>https://leaf-nam.github.io/tags/tips/</link>
-      <pubDate>Wed, 20 Mar 2024 23:43:14 +0900</pubDate>
+      <pubDate>Sat, 23 Mar 2024 23:19:23 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jnuit</title>
+      <link>https://leaf-nam.github.io/tags/jnuit/</link>
+      <pubDate>Wed, 20 Mar 2024 23:43:14 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/jnuit/</guid>
       <description></description>
     </item>
     <item>
