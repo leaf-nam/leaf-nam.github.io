@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 19 Mar 2024 20:20:06 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/categories/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
+      <link>https://leaf-nam.github.io/posts/240310_mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/240319_springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</link>
+      <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/240310_mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/240319_springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</guid>
+      <description>이중화된 MySQL DB에 접근할 수 있는 DataSource를 설정합니다.</description>
+    </item>
+    <item>
       <title>MySQL Replication Database 구현</title>
       <link>https://leaf-nam.github.io/posts/240310_mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/240313_mysql_replication_database_%EA%B5%AC%ED%98%84/</link>
       <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate>
@@ -21,13 +28,6 @@
       <pubDate>Mon, 11 Mar 2024 22:51:52 +0900</pubDate>
       <guid>https://leaf-nam.github.io/posts/240310_mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/240311_db_%EC%9D%B4%EC%A4%91%ED%99%94_%EB%B0%8F_cqrs_%ED%8C%A8%ED%84%B4%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1/</guid>
       <description>CQRS패턴을 구현하기 위한 DB이중화 기법에 대해 알아봅니다.</description>
-    </item>
-    <item>
-      <title>SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
-      <link>https://leaf-nam.github.io/posts/240310_mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/240319_springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</link>
-      <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/240310_mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/240319_springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</guid>
-      <description>이중화된 MySQL DB에 접근할 수 있는 DataSource를 설정합니다.</description>
     </item>
   </channel>
 </rss>
