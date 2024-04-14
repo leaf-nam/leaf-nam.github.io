@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unit Testing on 봄을 기다리는 낙엽</title>
+    <link>https://leaf-nam.github.io/categories/unit-testing/</link>
+    <description>Recent content in Unit Testing on 봄을 기다리는 낙엽</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 14 Apr 2024 19:37:37 +0900</lastBuildDate>
+    <atom:link href="https://leaf-nam.github.io/categories/unit-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit Testing</title>
+      <link>https://leaf-nam.github.io/posts/%EA%B0%9C%EB%B0%9C_%EC%84%9C%EC%A0%81_%EB%A6%AC%EB%B7%B0/unit_testing/</link>
+      <pubDate>Sun, 14 Apr 2024 19:37:37 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/%EA%B0%9C%EB%B0%9C_%EC%84%9C%EC%A0%81_%EB%A6%AC%EB%B7%B0/unit_testing/</guid>
+      <description>Unit Testing 책에 대한 리뷰입니다.</description>
+    </item>
+  </channel>
+</rss>
