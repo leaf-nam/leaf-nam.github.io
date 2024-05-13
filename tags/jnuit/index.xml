@@ -10,9 +10,9 @@
     <atom:link href="https://leaf-nam.github.io/tags/jnuit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Springboot Junit 단위테스트에서 로그 레벨 조정하기</title>
-      <link>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</link>
+      <link>https://leaf-nam.github.io/posts/tips/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</link>
       <pubDate>Wed, 20 Mar 2024 23:43:14 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</guid>
+      <guid>https://leaf-nam.github.io/posts/tips/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</guid>
       <description>스프링부트 단위테스트에서 간단하게 로그 레벨을 조정할 수 있습니다.</description>
     </item>
   </channel>

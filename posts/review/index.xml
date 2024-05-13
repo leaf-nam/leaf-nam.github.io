@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>개발 서적 리뷰 on 봄을 기다리는 낙엽</title>
+    <link>https://leaf-nam.github.io/posts/review/</link>
+    <description>Recent content in 개발 서적 리뷰 on 봄을 기다리는 낙엽</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 28 Apr 2024 23:38:18 +0900</lastBuildDate>
+    <atom:link href="https://leaf-nam.github.io/posts/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit Testing</title>
+      <link>https://leaf-nam.github.io/posts/review/unit_testing/</link>
+      <pubDate>Sun, 14 Apr 2024 19:37:37 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/review/unit_testing/</guid>
+      <description>Unit Testing 책에 대한 리뷰입니다.</description>
+    </item>
+    <item>
+      <title>Test Driven Development: By Example</title>
+      <link>https://leaf-nam.github.io/posts/review/test-driven_development_by_example/</link>
+      <pubDate>Sun, 28 Apr 2024 23:38:18 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/review/test-driven_development_by_example/</guid>
+      <description>켄트 백의 TDD에 대한 리뷰입니다.</description>
+    </item>
+  </channel>
+</rss>

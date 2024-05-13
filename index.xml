@@ -6,7 +6,7 @@
     <description>Recent content on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 07 May 2024 17:03:40 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 21:01:16 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
@@ -66,38 +66,45 @@
     </item>
     <item>
       <title>Springboot Junit 단위테스트에서 로그 레벨 조정하기</title>
-      <link>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</link>
+      <link>https://leaf-nam.github.io/posts/tips/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</link>
       <pubDate>Wed, 20 Mar 2024 23:43:14 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</guid>
+      <guid>https://leaf-nam.github.io/posts/tips/springboot_junit_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EB%A1%9C%EA%B7%B8_%EB%A0%88%EB%B2%A8_%EC%A1%B0%EC%A0%95%ED%95%98%EA%B8%B0/</guid>
       <description>스프링부트 단위테스트에서 간단하게 로그 레벨을 조정할 수 있습니다.</description>
     </item>
     <item>
       <title>Jnuit 테스트에서 객체 필드명 비교하기</title>
-      <link>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/jnuit_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EA%B0%9D%EC%B2%B4_%ED%95%84%EB%93%9C%EB%AA%85_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/</link>
+      <link>https://leaf-nam.github.io/posts/tips/jnuit_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EA%B0%9D%EC%B2%B4_%ED%95%84%EB%93%9C%EB%AA%85_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/</link>
       <pubDate>Sat, 23 Mar 2024 23:19:23 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/jnuit_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EA%B0%9D%EC%B2%B4_%ED%95%84%EB%93%9C%EB%AA%85_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/</guid>
+      <guid>https://leaf-nam.github.io/posts/tips/jnuit_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C_%EA%B0%9D%EC%B2%B4_%ED%95%84%EB%93%9C%EB%AA%85_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/</guid>
       <description>Junit에서 객체 필드명을 편하게 테스트할 수 있습니다.</description>
     </item>
     <item>
       <title>Lombok 생성자 주입 시 인터페이스 주입하기</title>
-      <link>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/lombok_%EC%83%9D%EC%84%B1%EC%9E%90_%EC%A3%BC%EC%9E%85_%EC%8B%9C_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%A3%BC%EC%9E%85%ED%95%98%EA%B8%B0/</link>
+      <link>https://leaf-nam.github.io/posts/tips/lombok_%EC%83%9D%EC%84%B1%EC%9E%90_%EC%A3%BC%EC%9E%85_%EC%8B%9C_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%A3%BC%EC%9E%85%ED%95%98%EA%B8%B0/</link>
       <pubDate>Fri, 29 Mar 2024 06:18:57 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/lombok_%EC%83%9D%EC%84%B1%EC%9E%90_%EC%A3%BC%EC%9E%85_%EC%8B%9C_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%A3%BC%EC%9E%85%ED%95%98%EA%B8%B0/</guid>
+      <guid>https://leaf-nam.github.io/posts/tips/lombok_%EC%83%9D%EC%84%B1%EC%9E%90_%EC%A3%BC%EC%9E%85_%EC%8B%9C_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%A3%BC%EC%9E%85%ED%95%98%EA%B8%B0/</guid>
       <description>롬복을 활용해서 인터페이스를 생성자 주입받을 수 있습니다.</description>
     </item>
     <item>
       <title>Org.springframework.data.mapping.MappingException 오류 해결</title>
-      <link>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</link>
+      <link>https://leaf-nam.github.io/posts/tips/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</link>
       <pubDate>Tue, 02 Apr 2024 22:36:05 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</guid>
+      <guid>https://leaf-nam.github.io/posts/tips/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</guid>
       <description>Spring Data MongoDB에서 자주 만나는 MappingException 오류를 해결합니다.</description>
     </item>
     <item>
       <title>MockMvc Object mapper nested class utf-8 인코딩 오류 해결하기</title>
-      <link>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/object_mapper_nested_class_utf_8_%EC%9D%B8%EC%BD%94%EB%94%A9_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/</link>
+      <link>https://leaf-nam.github.io/posts/tips/object_mapper_nested_class_utf_8_%EC%9D%B8%EC%BD%94%EB%94%A9_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/</link>
       <pubDate>Tue, 07 May 2024 17:03:40 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EC%9E%91%EA%B3%A0_%EC%86%8C%EC%A4%91%ED%95%9C_%ED%8C%81%EB%93%A4/object_mapper_nested_class_utf_8_%EC%9D%B8%EC%BD%94%EB%94%A9_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/</guid>
+      <guid>https://leaf-nam.github.io/posts/tips/object_mapper_nested_class_utf_8_%EC%9D%B8%EC%BD%94%EB%94%A9_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/</guid>
       <description>Object Mapper 사용 시 만날 수 있는 오류를 해결합니다.</description>
+    </item>
+    <item>
+      <title>JPA SpringBootTest 시 Sequence ID 테이블 사용하기(populate)</title>
+      <link>https://leaf-nam.github.io/posts/tips/jpa_springboottest_%EC%8B%9C_sequence_id_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0_populate/</link>
+      <pubDate>Fri, 10 May 2024 23:38:30 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/tips/jpa_springboottest_%EC%8B%9C_sequence_id_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0_populate/</guid>
+      <description>JPA로 Test를 하다 보면 마주칠 수 있는 sequence populate 오류를 해결합니다.</description>
     </item>
     <item>
       <title>블로그를 쓰게 된 계기와 앞으로의 방향성</title>
@@ -108,24 +115,31 @@
     </item>
     <item>
       <title>Unit Testing</title>
-      <link>https://leaf-nam.github.io/posts/%EA%B0%9C%EB%B0%9C_%EC%84%9C%EC%A0%81_%EB%A6%AC%EB%B7%B0/unit_testing/</link>
+      <link>https://leaf-nam.github.io/posts/review/unit_testing/</link>
       <pubDate>Sun, 14 Apr 2024 19:37:37 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EA%B0%9C%EB%B0%9C_%EC%84%9C%EC%A0%81_%EB%A6%AC%EB%B7%B0/unit_testing/</guid>
+      <guid>https://leaf-nam.github.io/posts/review/unit_testing/</guid>
       <description>Unit Testing 책에 대한 리뷰입니다.</description>
     </item>
     <item>
       <title>Test Driven Development: By Example</title>
-      <link>https://leaf-nam.github.io/posts/%EA%B0%9C%EB%B0%9C_%EC%84%9C%EC%A0%81_%EB%A6%AC%EB%B7%B0/test-driven_development_by_example/</link>
+      <link>https://leaf-nam.github.io/posts/review/test-driven_development_by_example/</link>
       <pubDate>Sun, 28 Apr 2024 23:38:18 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EA%B0%9C%EB%B0%9C_%EC%84%9C%EC%A0%81_%EB%A6%AC%EB%B7%B0/test-driven_development_by_example/</guid>
+      <guid>https://leaf-nam.github.io/posts/review/test-driven_development_by_example/</guid>
       <description>켄트 백의 TDD에 대한 리뷰입니다.</description>
     </item>
     <item>
       <title>localhost_쿠키_도난사건</title>
-      <link>https://leaf-nam.github.io/posts/%EB%AF%B8%EC%A0%9C%EC%82%AC%EA%B1%B4/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</link>
+      <link>https://leaf-nam.github.io/posts/coldcase/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</link>
       <pubDate>Mon, 06 May 2024 18:08:44 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/posts/%EB%AF%B8%EC%A0%9C%EC%82%AC%EA%B1%B4/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</guid>
+      <guid>https://leaf-nam.github.io/posts/coldcase/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</guid>
       <description>브라우저 로컬에서 테스트하던 쿠키가 계속해서 사라졌습니다.</description>
+    </item>
+    <item>
+      <title>JPA Cascade vs Mysql Cascade vs Orphan Removal</title>
+      <link>https://leaf-nam.github.io/posts/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</link>
+      <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
+      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>

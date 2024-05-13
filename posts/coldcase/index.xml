@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>미제사건 on 봄을 기다리는 낙엽</title>
+    <link>https://leaf-nam.github.io/posts/coldcase/</link>
+    <description>Recent content in 미제사건 on 봄을 기다리는 낙엽</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 06 May 2024 18:08:44 +0900</lastBuildDate>
+    <atom:link href="https://leaf-nam.github.io/posts/coldcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>localhost_쿠키_도난사건</title>
+      <link>https://leaf-nam.github.io/posts/coldcase/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</link>
+      <pubDate>Mon, 06 May 2024 18:08:44 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/coldcase/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</guid>
+      <description>브라우저 로컬에서 테스트하던 쿠키가 계속해서 사라졌습니다.</description>
+    </item>
+  </channel>
+</rss>
