@@ -6,7 +6,7 @@
     <description>Recent content in Concept on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 02 Mar 2024 07:28:40 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 21:01:16 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/concept/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SSG에 대하여</title>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
       <guid>https://leaf-nam.github.io/posts/240229_%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/240302_ssg%EC%97%90_%EB%8C%80%ED%95%98%EC%97%AC/</guid>
       <description>SSG에 대해 알아보는 시간을 가집니다.</description>
+    </item>
+    <item>
+      <title>JPA Cascade vs Mysql Cascade vs Orphan Removal</title>
+      <link>https://leaf-nam.github.io/posts/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</link>
+      <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
+      <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
   </channel>
 </rss>

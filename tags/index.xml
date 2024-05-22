@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 13 May 2024 21:01:16 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Concept</title>
+      <link>https://leaf-nam.github.io/tags/concept/</link>
+      <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/tags/concept/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Main</title>
       <link>https://leaf-nam.github.io/tags/main/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
@@ -18,7 +25,7 @@
     <item>
       <title>Tips</title>
       <link>https://leaf-nam.github.io/tags/tips/</link>
-      <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
+      <pubDate>Fri, 10 May 2024 23:38:30 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/tips/</guid>
       <description></description>
     </item>
@@ -265,13 +272,6 @@
       <link>https://leaf-nam.github.io/tags/ssg/</link>
       <pubDate>Sun, 03 Mar 2024 07:49:45 +0900</pubDate>
       <guid>https://leaf-nam.github.io/tags/ssg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Concept</title>
-      <link>https://leaf-nam.github.io/tags/concept/</link>
-      <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
-      <guid>https://leaf-nam.github.io/tags/concept/</guid>
       <description></description>
     </item>
     <item>

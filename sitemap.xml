@@ -80,6 +80,9 @@
     <loc>https://leaf-nam.github.io/categories/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
   </url><url>
+    <loc>https://leaf-nam.github.io/tags/concept/</loc>
+    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
+  </url><url>
     <loc>https://leaf-nam.github.io/categories/concept/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
   </url><url>
@@ -92,14 +95,14 @@
     <loc>https://leaf-nam.github.io/tags/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
   </url><url>
-    <loc>https://leaf-nam.github.io/categories/tinytips/</loc>
-    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/tags/tips/</loc>
-    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
-  </url><url>
     <loc>https://leaf-nam.github.io/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/categories/tinytips/</loc>
+    <lastmod>2024-05-10T23:38:30+09:00</lastmod>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/tips/</loc>
+    <lastmod>2024-05-10T23:38:30+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/tags/encoding/</loc>
     <lastmod>2024-05-07T17:03:40+09:00</lastmod>
@@ -223,9 +226,6 @@
   </url><url>
     <loc>https://leaf-nam.github.io/tags/ssg/</loc>
     <lastmod>2024-03-03T07:49:45+09:00</lastmod>
-  </url><url>
-    <loc>https://leaf-nam.github.io/tags/concept/</loc>
-    <lastmod>2024-03-02T07:28:40+09:00</lastmod>
   </url><url>
     <loc>https://leaf-nam.github.io/tags/jamstack/</loc>
     <lastmod>2024-03-02T07:28:40+09:00</lastmod>
