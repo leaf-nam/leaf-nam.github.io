@@ -6,8 +6,15 @@
     <description>Recent content in Backjoon on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 31 May 2024 20:57:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 05:51:58 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/tags/backjoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>백준 12904 A와 B</title>
+      <link>https://leaf-nam.github.io/posts/cote/%EB%B0%B1%EC%A4%80_12904_a%EC%99%80_b/</link>
+      <pubDate>Sun, 02 Jun 2024 05:51:58 +0900</pubDate>
+      <guid>https://leaf-nam.github.io/posts/cote/%EB%B0%B1%EC%A4%80_12904_a%EC%99%80_b/</guid>
+      <description>백준 12904 A와 B 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>백준 16927 배열 돌리기 2</title>
       <link>https://leaf-nam.github.io/posts/cote/%EB%B0%B1%EC%A4%80_16927_%EB%B0%B0%EC%97%B4_%EB%8F%8C%EB%A6%AC%EA%B8%B0_2/</link>
