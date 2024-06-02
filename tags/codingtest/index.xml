@@ -6,8 +6,15 @@
     <description>Recent content in Codingtest on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 02 Jun 2024 05:51:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:59:21 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/codingtest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>백준 4195 친구 네트워크</title>
+      <link>https://1eaf.site/posts/cote/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
+      <pubDate>Mon, 03 Jun 2024 06:59:21 +0900</pubDate>
+      <guid>https://1eaf.site/posts/cote/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</guid>
+      <description>백준 4195 친구 네트워크 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>백준 12904 A와 B</title>
       <link>https://1eaf.site/posts/cote/%EB%B0%B1%EC%A4%80_12904_a%EC%99%80_b/</link>
