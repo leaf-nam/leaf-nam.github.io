@@ -119,6 +119,15 @@
     <loc>https://1eaf.site/categories/concept/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
   </url><url>
+    <loc>https://1eaf.site/tags/hibernate/</loc>
+    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
+  </url><url>
+    <loc>https://1eaf.site/tags/jpa/</loc>
+    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
+  </url><url>
+    <loc>https://1eaf.site/categories/jpa/</loc>
+    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
+  </url><url>
     <loc>https://1eaf.site/tags/main/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
   </url><url>
@@ -195,9 +204,6 @@
     <lastmod>2024-03-19T20:20:06+09:00</lastmod>
   </url><url>
     <loc>https://1eaf.site/tags/implement/</loc>
-    <lastmod>2024-03-19T20:20:06+09:00</lastmod>
-  </url><url>
-    <loc>https://1eaf.site/tags/jpa/</loc>
     <lastmod>2024-03-19T20:20:06+09:00</lastmod>
   </url><url>
     <loc>https://1eaf.site/tags/mysql/</loc>

@@ -9,7 +9,7 @@
     <lastBuildDate>Mon, 13 May 2024 21:01:16 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/categories/concept/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JPA Cascade vs Mysql Cascade vs Orphan Removal</title>
+      <title>JPA Cascade vs Orphan Removal</title>
       <link>https://1eaf.site/posts/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
       <guid>https://1eaf.site/posts/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
