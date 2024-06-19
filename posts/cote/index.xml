@@ -6,8 +6,15 @@
     <description>Recent content in 코딩테스트 on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Jun 2024 09:03:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 10:32:37 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/posts/cote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>백준 14503 로봇 청소기</title>
+      <link>https://1eaf.site/posts/cote/%EB%B0%B1%EC%A4%80_14503_%EB%A1%9C%EB%B4%87_%EC%B2%AD%EC%86%8C%EA%B8%B0/</link>
+      <pubDate>Wed, 19 Jun 2024 10:32:37 +0900</pubDate>
+      <guid>https://1eaf.site/posts/cote/%EB%B0%B1%EC%A4%80_14503_%EB%A1%9C%EB%B4%87_%EC%B2%AD%EC%86%8C%EA%B8%B0/</guid>
+      <description>백준 14503 로봇 청소기 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>백준 1806 부분합</title>
       <link>https://1eaf.site/posts/cote/%EB%B0%B1%EC%A4%80_1806_%EB%B6%80%EB%B6%84%ED%95%A9/</link>
