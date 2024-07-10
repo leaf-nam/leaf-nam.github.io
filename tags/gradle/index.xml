@@ -10,9 +10,9 @@
     <atom:link href="https://1eaf.site/tags/gradle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Org.springframework.data.mapping.MappingException 오류 해결</title>
-      <link>https://1eaf.site/posts/tips/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</link>
+      <link>https://1eaf.site/tips/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</link>
       <pubDate>Tue, 02 Apr 2024 22:36:05 +0900</pubDate>
-      <guid>https://1eaf.site/posts/tips/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</guid>
+      <guid>https://1eaf.site/tips/org.springframework.data.mapping.mappingexception_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0/</guid>
       <description>Spring Data MongoDB에서 자주 만나는 MappingException 오류를 해결합니다.</description>
     </item>
   </channel>
