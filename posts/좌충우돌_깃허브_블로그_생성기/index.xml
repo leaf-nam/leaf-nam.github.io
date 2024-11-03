@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 05 Mar 2024 19:08:20 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>개발 블로그의 종류와 선택</title>
+      <link>https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EC%A2%85%EB%A5%98%EC%99%80_%EC%84%A0%ED%83%9D/</link>
+      <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate>
+      <guid>https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EC%A2%85%EB%A5%98%EC%99%80_%EC%84%A0%ED%83%9D/</guid>
+      <description>처음 마주하는 갈림길</description>
+    </item>
+    <item>
       <title>깃허브 블로그 댓글 구현 : Utterances 도입기</title>
       <link>https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%8C%93%EA%B8%80_%EA%B5%AC%ED%98%84_utterances_%EB%8F%84%EC%9E%85%EA%B8%B0/</link>
       <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate>
       <guid>https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/ssg%EC%97%90_%EB%8C%80%ED%95%98%EC%97%AC/</guid>
       <description>SSG에 대해 알아보는 시간을 가집니다.</description>
-    </item>
-    <item>
-      <title>개발 블로그의 종류와 선택</title>
-      <link>https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EC%A2%85%EB%A5%98%EC%99%80_%EC%84%A0%ED%83%9D/</link>
-      <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate>
-      <guid>https://1eaf.site/posts/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C_%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%83%9D%EC%84%B1%EA%B8%B0/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%98_%EC%A2%85%EB%A5%98%EC%99%80_%EC%84%A0%ED%83%9D/</guid>
-      <description>처음 마주하는 갈림길</description>
     </item>
   </channel>
 </rss>
