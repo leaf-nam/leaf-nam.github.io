@@ -6,7 +6,7 @@
     <description>Recent content in Tips on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 10 May 2024 23:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 17:03:40 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Springboot Junit 단위테스트에서 로그 레벨 조정하기</title>
@@ -42,13 +42,6 @@
       <pubDate>Tue, 07 May 2024 17:03:40 +0900</pubDate>
       <guid>https://1eaf.site/tips/object_mapper_nested_class_utf_8_%EC%9D%B8%EC%BD%94%EB%94%A9_%EC%98%A4%EB%A5%98_%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0/</guid>
       <description>Object Mapper 사용 시 만날 수 있는 오류를 해결합니다.</description>
-    </item>
-    <item>
-      <title>JPA SpringBootTest 시 Sequence ID 테이블 사용하기(populate)</title>
-      <link>https://1eaf.site/tips/jpa_springboottest_%EC%8B%9C_sequence_id_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0_populate/</link>
-      <pubDate>Fri, 10 May 2024 23:38:30 +0900</pubDate>
-      <guid>https://1eaf.site/tips/jpa_springboottest_%EC%8B%9C_sequence_id_%ED%85%8C%EC%9D%B4%EB%B8%94_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0_populate/</guid>
-      <description>JPA로 Test를 하다 보면 마주칠 수 있는 sequence populate 오류를 해결합니다.</description>
     </item>
   </channel>
 </rss>
