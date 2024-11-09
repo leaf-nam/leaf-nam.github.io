@@ -6,19 +6,21 @@
     <description>Recent content in Implementation on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Sat, 09 Nov 2024 22:20:29 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Programmers 연속 부분 수열 합의 개수</title>
       <link>https://1eaf.site/cote/programmers_%EC%97%B0%EC%86%8D_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_%ED%95%A9%EC%9D%98_%EA%B0%9C%EC%88%98/</link>
-      <pubDate>Sat, 09 Nov 2024 22:20:29 +0900</pubDate>
+      <pubDate>Sat, 09 Nov 2024 22:20:29 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/cote/programmers_%EC%97%B0%EC%86%8D_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_%ED%95%A9%EC%9D%98_%EA%B0%9C%EC%88%98/</guid>
       <description>Programmers 연속 부분 수열 합의 개수 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 2573 빙산</title>
       <link>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_2573_%EB%B9%99%EC%82%B0/</link>
-      <pubDate>Thu, 27 Jun 2024 11:35:43 +0900</pubDate>
+      <pubDate>Thu, 27 Jun 2024 11:35:43 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_2573_%EB%B9%99%EC%82%B0/</guid>
       <description>백준 2573 빙산 문제에 대한 해설입니다.</description>
     </item>

@@ -6,12 +6,14 @@
     <description>Recent content in Shell on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Wed, 13 Mar 2024 23:07:00 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MySQL Replication Database 구현</title>
       <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</link>
-      <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate>
+      <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</guid>
       <description>Docker와 MySQL을 활용하여 Replication Database를 구현하는 실습을 진행합니다.</description>
     </item>

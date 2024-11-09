@@ -6,12 +6,14 @@
     <description>Recent content in Browser on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Mon, 06 May 2024 18:08:44 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>localhost_쿠키_도난사건</title>
       <link>https://1eaf.site/coldcase/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</link>
-      <pubDate>Mon, 06 May 2024 18:08:44 +0900</pubDate>
+      <pubDate>Mon, 06 May 2024 18:08:44 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/coldcase/localhost_%EC%BF%A0%ED%82%A4_%EB%8F%84%EB%82%9C%EC%82%AC%EA%B1%B4/</guid>
       <description>브라우저 로컬에서 테스트하던 쿠키가 계속해서 사라졌습니다.</description>
     </item>

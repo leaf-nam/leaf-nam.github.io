@@ -6,12 +6,14 @@
     <description>Recent content in Dijkstra on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Fri, 21 Jun 2024 09:55:27 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/dijkstra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]백준 1753 다익스트라</title>
       <link>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_1753_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/</link>
-      <pubDate>Fri, 21 Jun 2024 09:55:27 +0900</pubDate>
+      <pubDate>Fri, 21 Jun 2024 09:55:27 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_1753_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/</guid>
       <description>백준 1753 다익스트라 문제에 대한 해설입니다.</description>
     </item>
