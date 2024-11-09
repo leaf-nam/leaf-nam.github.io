@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JPA on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/categories/jpa/</link>
+    <link>http://localhost:1313/categories/jpa/</link>
     <description>Recent content in JPA on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Mon, 13 May 2024 21:01:16 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/categories/jpa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/jpa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JPA Cascade vs Orphan Removal</title>
-      <link>https://1eaf.site/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</link>
+      <link>http://localhost:1313/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate>
-      <guid>https://1eaf.site/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
+      <guid>http://localhost:1313/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
   </channel>
