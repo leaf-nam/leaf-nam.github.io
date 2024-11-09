@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>개발 서적 리뷰 on 봄을 기다리는 낙엽</title>
-    <link>http://localhost:1313/review/</link>
+    <link>https://1eaf.site/review/</link>
     <description>Recent content in 개발 서적 리뷰 on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Wed, 10 Jul 2024 11:41:32 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://1eaf.site/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>객체지향의 사실과 오해</title>
-      <link>http://localhost:1313/review/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4/</link>
+      <link>https://1eaf.site/review/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4/</link>
       <pubDate>Wed, 10 Jul 2024 11:41:32 +0900</pubDate>
-      <guid>http://localhost:1313/review/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4/</guid>
+      <guid>https://1eaf.site/review/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>Test Driven Development: By Example</title>
-      <link>http://localhost:1313/review/test-driven_development_by_example/</link>
+      <link>https://1eaf.site/review/test-driven_development_by_example/</link>
       <pubDate>Sun, 28 Apr 2024 23:38:18 +0900</pubDate>
-      <guid>http://localhost:1313/review/test-driven_development_by_example/</guid>
+      <guid>https://1eaf.site/review/test-driven_development_by_example/</guid>
       <description>켄트 백의 TDD에 대한 리뷰입니다.</description>
     </item>
     <item>
       <title>Unit Testing</title>
-      <link>http://localhost:1313/review/unit_testing/</link>
+      <link>https://1eaf.site/review/unit_testing/</link>
       <pubDate>Sun, 14 Apr 2024 19:37:37 +0900</pubDate>
-      <guid>http://localhost:1313/review/unit_testing/</guid>
+      <guid>https://1eaf.site/review/unit_testing/</guid>
       <description>Unit Testing 책에 대한 리뷰입니다.</description>
     </item>
   </channel>
