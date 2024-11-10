@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Sat, 09 Nov 2024 22:20:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 17:33:01 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/cote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers 빛의 경로 사이클</title>
+      <link>https://1eaf.site/cote/programmers_%EB%B9%9B%EC%9D%98_%EA%B2%BD%EB%A1%9C_%EC%82%AC%EC%9D%B4%ED%81%B4/</link>
+      <pubDate>Sun, 10 Nov 2024 17:33:01 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_%EB%B9%9B%EC%9D%98_%EA%B2%BD%EB%A1%9C_%EC%82%AC%EC%9D%B4%ED%81%B4/</guid>
+      <description>Programmers 빛의 경로 사이클 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers 연속 부분 수열 합의 개수</title>
       <link>https://1eaf.site/cote/programmers_%EC%97%B0%EC%86%8D_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_%ED%95%A9%EC%9D%98_%EA%B0%9C%EC%88%98/</link>

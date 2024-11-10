@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brute-Force on 봄을 기다리는 낙엽</title>
+    <link>https://1eaf.site/tags/brute-force/</link>
+    <description>Recent content in Brute-Force on 봄을 기다리는 낙엽</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
+    <lastBuildDate>Sun, 10 Nov 2024 17:33:01 +0900</lastBuildDate>
+    <atom:link href="https://1eaf.site/tags/brute-force/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers 빛의 경로 사이클</title>
+      <link>https://1eaf.site/cote/programmers_%EB%B9%9B%EC%9D%98_%EA%B2%BD%EB%A1%9C_%EC%82%AC%EC%9D%B4%ED%81%B4/</link>
+      <pubDate>Sun, 10 Nov 2024 17:33:01 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_%EB%B9%9B%EC%9D%98_%EA%B2%BD%EB%A1%9C_%EC%82%AC%EC%9D%B4%ED%81%B4/</guid>
+      <description>Programmers 빛의 경로 사이클 문제에 대한 해설입니다.</description>
+    </item>
+  </channel>
+</rss>
