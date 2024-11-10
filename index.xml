@@ -11,11 +11,32 @@
     <lastBuildDate>Sat, 09 Nov 2024 22:20:29 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>[Java]Spring Security WebMVC 기본 구조</title>
+      <link>https://1eaf.site/posts/spring_security/spring_security_webmvc_base_architecture/</link>
+      <pubDate>Wed, 06 Nov 2024 19:19:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/spring_security/spring_security_webmvc_base_architecture/</guid>
+      <description>Spring Security의 기본 구조인 필터에 대해서 알아봅니다.</description>
+    </item>
+    <item>
       <title>개발 블로그를 다시 시작하며...</title>
       <link>https://1eaf.site/posts/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EB%8B%A4%EC%8B%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0.../</link>
       <pubDate>Sun, 03 Nov 2024 18:18:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/%EA%B0%9C%EB%B0%9C_%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC_%EB%8B%A4%EC%8B%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0.../</guid>
-      <description>내 첫번째 블로그 포스팅</description>
+      <description>블로그 다시 시작하기</description>
+    </item>
+    <item>
+      <title>DB 이중화 및 CQRS 패턴의 중요성</title>
+      <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/db_%EC%9D%B4%EC%A4%91%ED%99%94_%EB%B0%8F_cqrs_%ED%8C%A8%ED%84%B4%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1/</link>
+      <pubDate>Mon, 11 Mar 2024 22:51:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/db_%EC%9D%B4%EC%A4%91%ED%99%94_%EB%B0%8F_cqrs_%ED%8C%A8%ED%84%B4%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1/</guid>
+      <description>CQRS패턴을 구현하기 위한 DB이중화 기법에 대해 알아봅니다.</description>
+    </item>
+    <item>
+      <title>[MySQL]Replication Database 구현</title>
+      <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</link>
+      <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</guid>
+      <description>Docker와 MySQL을 활용하여 Replication Database를 구현하는 실습을 진행합니다.</description>
     </item>
     <item>
       <title>블로그를 쓰게 된 계기와 앞으로의 방향성</title>
@@ -25,25 +46,11 @@
       <description>내 첫번째 블로그 포스팅</description>
     </item>
     <item>
-      <title>SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
+      <title>[Java]SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
       <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</link>
       <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</guid>
       <description>이중화된 MySQL DB에 접근할 수 있는 DataSource를 설정합니다.</description>
-    </item>
-    <item>
-      <title>MySQL Replication Database 구현</title>
-      <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</link>
-      <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</guid>
-      <description>Docker와 MySQL을 활용하여 Replication Database를 구현하는 실습을 진행합니다.</description>
-    </item>
-    <item>
-      <title>DB 이중화 및 CQRS 패턴의 중요성</title>
-      <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/db_%EC%9D%B4%EC%A4%91%ED%99%94_%EB%B0%8F_cqrs_%ED%8C%A8%ED%84%B4%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1/</link>
-      <pubDate>Mon, 11 Mar 2024 22:51:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/db_%EC%9D%B4%EC%A4%91%ED%99%94_%EB%B0%8F_cqrs_%ED%8C%A8%ED%84%B4%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1/</guid>
-      <description>CQRS패턴을 구현하기 위한 DB이중화 기법에 대해 알아봅니다.</description>
     </item>
     <item>
       <title>개발 블로그의 종류와 선택</title>
@@ -135,13 +142,6 @@
       <pubDate>Sat, 09 Nov 2024 22:20:29 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/cote/programmers_%EC%97%B0%EC%86%8D_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_%ED%95%A9%EC%9D%98_%EA%B0%9C%EC%88%98/</guid>
       <description>Programmers 연속 부분 수열 합의 개수 문제에 대한 해설입니다.</description>
-    </item>
-    <item>
-      <title>[Java]Spring Security WebMVC 기본 구조</title>
-      <link>https://1eaf.site/posts/spring_security/spring_security_webmvc_base_architecture/</link>
-      <pubDate>Wed, 06 Nov 2024 19:19:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/spring_security_webmvc_base_architecture/</guid>
-      <description>Spring Security의 기본 구조인 필터에 대해서 알아봅니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank Lego Blocks</title>
