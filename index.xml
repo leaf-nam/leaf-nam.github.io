@@ -8,7 +8,7 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Mon, 11 Nov 2024 10:59:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 21:36:48 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Spring Security WebMVC 기본 구조</title>
@@ -135,6 +135,13 @@
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
+    </item>
+    <item>
+      <title>[Java]Spring Security 예외처리, 캐싱, 로깅</title>
+      <link>https://1eaf.site/posts/spring_security/spring_security_exception_caching_logging/</link>
+      <pubDate>Mon, 11 Nov 2024 21:36:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/spring_security/spring_security_exception_caching_logging/</guid>
+      <description>Spring Security의 기본 예외처리 및 캐싱, 로깅에 대해 알아봅니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 모음 사전</title>
