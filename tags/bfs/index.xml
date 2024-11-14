@@ -4,7 +4,7 @@
     <title>Bfs on 봄을 기다리는 낙엽</title>
     <link>https://1eaf.site/tags/bfs/</link>
     <description>Recent content in Bfs on 봄을 기다리는 낙엽</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
@@ -12,9 +12,9 @@
     <atom:link href="https://1eaf.site/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]백준 2573 빙산</title>
-      <link>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_2573_%EB%B9%99%EC%82%B0/</link>
+      <link>https://1eaf.site/cote/bj_2573/</link>
       <pubDate>Thu, 27 Jun 2024 11:35:43 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_2573_%EB%B9%99%EC%82%B0/</guid>
+      <guid>https://1eaf.site/cote/bj_2573/</guid>
       <description>백준 2573 빙산 문제에 대한 해설입니다.</description>
     </item>
   </channel>

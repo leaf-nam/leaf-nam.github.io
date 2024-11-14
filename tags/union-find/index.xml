@@ -4,7 +4,7 @@
     <title>Union-Find on 봄을 기다리는 낙엽</title>
     <link>https://1eaf.site/tags/union-find/</link>
     <description>Recent content in Union-Find on 봄을 기다리는 낙엽</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
@@ -12,9 +12,9 @@
     <atom:link href="https://1eaf.site/tags/union-find/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]백준 4195 친구 네트워크</title>
-      <link>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
+      <link>https://1eaf.site/cote/bj_4195/</link>
       <pubDate>Mon, 03 Jun 2024 06:59:21 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</guid>
+      <guid>https://1eaf.site/cote/bj_4195/</guid>
       <description>백준 4195 친구 네트워크 문제에 대한 해설입니다.</description>
     </item>
   </channel>
