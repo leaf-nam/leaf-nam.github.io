@@ -8,7 +8,7 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Wed, 13 Nov 2024 11:04:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 10:00:18 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Spring Security WebMVC 기본 구조</title>
@@ -135,6 +135,13 @@
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
+    </item>
+    <item>
+      <title>[Java]Programmers 2개 이하로 다른 비트</title>
+      <link>https://1eaf.site/cote/programmers_77885/</link>
+      <pubDate>Thu, 14 Nov 2024 10:00:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_77885/</guid>
+      <description>[Programmers 2개 이하로 다른 비트] 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank Gridland Metro</title>
