@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Thu, 14 Nov 2024 10:00:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 21:35:28 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/categories/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]HackerRank New Year Chaos</title>
+      <link>https://1eaf.site/cote/hackerrank_new_year_chaos/</link>
+      <pubDate>Fri, 15 Nov 2024 21:35:28 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/hackerrank_new_year_chaos/</guid>
+      <description>HackerRank New Year Chaos 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers 2개 이하로 다른 비트</title>
       <link>https://1eaf.site/cote/programmers_77885/</link>

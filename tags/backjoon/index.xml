@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Mon, 08 Jul 2024 18:05:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 21:35:28 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/backjoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]HackerRank New Year Chaos</title>
+      <link>https://1eaf.site/cote/hackerrank_new_year_chaos/</link>
+      <pubDate>Fri, 15 Nov 2024 21:35:28 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/hackerrank_new_year_chaos/</guid>
+      <description>HackerRank New Year Chaos 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]백준 16236 아기 상어</title>
       <link>https://1eaf.site/cote/bj_16236/</link>
