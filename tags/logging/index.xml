@@ -12,9 +12,9 @@
     <atom:link href="https://1eaf.site/tags/logging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Spring Security 예외처리, 캐싱, 로깅</title>
-      <link>https://1eaf.site/posts/spring_security/spring_security_exception_caching_logging/</link>
+      <link>https://1eaf.site/posts/spring_security/1/</link>
       <pubDate>Mon, 11 Nov 2024 21:36:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/spring_security_exception_caching_logging/</guid>
+      <guid>https://1eaf.site/posts/spring_security/1/</guid>
       <description>Spring Security의 기본 예외처리 및 캐싱, 로깅에 대해 알아봅니다.</description>
     </item>
   </channel>

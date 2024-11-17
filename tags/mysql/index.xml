@@ -11,18 +11,18 @@
     <lastBuildDate>Tue, 19 Mar 2024 20:20:06 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[MySQL]Replication Database 구현</title>
-      <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</link>
-      <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/mysql_replication_database_%EA%B5%AC%ED%98%84/</guid>
-      <description>Docker와 MySQL을 활용하여 Replication Database를 구현하는 실습을 진행합니다.</description>
+      <title>[Java]SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
+      <link>https://1eaf.site/posts/cqrs/3/</link>
+      <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/cqrs/3/</guid>
+      <description>이중화된 MySQL DB에 접근할 수 있는 DataSource를 설정합니다.</description>
     </item>
     <item>
-      <title>[Java]SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
-      <link>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</link>
-      <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/mysql_springboot_cqrs_%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84%EC%9D%84_%EC%9C%84%ED%95%9C_db_%EC%9D%B4%EC%A4%91%ED%99%94/springboot_datasource_%EC%9D%B4%EC%A4%91%ED%99%94cqrs-%ED%8C%A8%ED%84%B4_%EA%B5%AC%ED%98%84/</guid>
-      <description>이중화된 MySQL DB에 접근할 수 있는 DataSource를 설정합니다.</description>
+      <title>[MySQL]Replication Database 구현</title>
+      <link>https://1eaf.site/posts/cqrs/2/</link>
+      <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/cqrs/2/</guid>
+      <description>Docker와 MySQL을 활용하여 Replication Database를 구현하는 실습을 진행합니다.</description>
     </item>
   </channel>
 </rss>

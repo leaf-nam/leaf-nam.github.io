@@ -12,9 +12,9 @@
     <atom:link href="https://1eaf.site/categories/concept/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JPA Cascade vs Orphan Removal</title>
-      <link>https://1eaf.site/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</link>
+      <link>https://1eaf.site/concept/240513/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/concept/jpa_cascade_vs_mysql_cascade_vs_orphan_removal/</guid>
+      <guid>https://1eaf.site/concept/240513/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
   </channel>
