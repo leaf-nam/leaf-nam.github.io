@@ -8,7 +8,7 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Tue, 19 Nov 2024 21:11:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 23:24:10 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 다시 시작하며...</title>
@@ -37,6 +37,13 @@
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/concept/240513/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
+    </item>
+    <item>
+      <title>[Vercel] 가비아 도메인으로 Vercel 홈페이지 배포 시 SSL 인증서 만료 해결</title>
+      <link>https://1eaf.site/tips/241120/</link>
+      <pubDate>Wed, 20 Nov 2024 23:24:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tips/241120/</guid>
+      <description>가비아 도메인으로 Vercel로 배포 시 발생할 수 있는 SSL 인증서 만료 문제를 해결합니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank No Prefix Set</title>
