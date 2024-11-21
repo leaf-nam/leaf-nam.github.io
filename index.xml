@@ -39,7 +39,7 @@
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
     <item>
-      <title>[Vercel] 가비아 도메인으로 Vercel 홈페이지 배포 시 SSL 인증서 만료 해결</title>
+      <title>[DNS] 가비아 도메인으로 Vercel 홈페이지 배포 시 SSL 인증서 만료 해결</title>
       <link>https://1eaf.site/tips/241120/</link>
       <pubDate>Wed, 20 Nov 2024 23:24:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tips/241120/</guid>
