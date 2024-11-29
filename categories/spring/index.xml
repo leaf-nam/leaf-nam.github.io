@@ -11,7 +11,7 @@
     <lastBuildDate>Fri, 22 Nov 2024 19:53:33 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/categories/spring/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Java]Spring Security 인가(Authentication)</title>
+      <title>[Java]Spring Security 인증(Authentication)과 인가(Authorization)</title>
       <link>https://1eaf.site/posts/spring_security/3/</link>
       <pubDate>Fri, 22 Nov 2024 19:53:33 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/spring_security/3/</guid>
