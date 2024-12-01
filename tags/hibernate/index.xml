@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hibernate on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/hibernate/</link>
+    <link>http://localhost:1313/tags/hibernate/</link>
     <description>Recent content in Hibernate on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Mon, 13 May 2024 21:01:16 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/hibernate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hibernate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JPA Cascade vs Orphan Removal</title>
-      <link>https://1eaf.site/concept/240513/</link>
+      <link>http://localhost:1313/concept/240513/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/concept/240513/</guid>
+      <guid>http://localhost:1313/concept/240513/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
   </channel>

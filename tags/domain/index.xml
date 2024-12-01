@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Domain on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/domain/</link>
+    <link>http://localhost:1313/tags/domain/</link>
     <description>Recent content in Domain on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Wed, 20 Nov 2024 23:24:10 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/domain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/domain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[DNS] 가비아 도메인으로 Vercel 홈페이지 배포 시 SSL 인증서 만료 해결</title>
-      <link>https://1eaf.site/tips/241120/</link>
+      <link>http://localhost:1313/tips/241120/</link>
       <pubDate>Wed, 20 Nov 2024 23:24:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/241120/</guid>
+      <guid>http://localhost:1313/tips/241120/</guid>
       <description>가비아 도메인으로 Vercel로 배포 시 발생할 수 있는 SSL 인증서 만료 문제를 해결합니다.</description>
     </item>
   </channel>
