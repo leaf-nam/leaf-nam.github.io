@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Choices on 봄을 기다리는 낙엽</title>
-    <link>http://localhost:1313/tags/choices/</link>
+    <link>https://1eaf.site/tags/choices/</link>
     <description>Recent content in Choices on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Thu, 29 Feb 2024 21:28:56 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/choices/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://1eaf.site/tags/choices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그의 종류와 선택</title>
-      <link>http://localhost:1313/posts/gitblog/1/</link>
+      <link>https://1eaf.site/posts/gitblog/1/</link>
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>http://localhost:1313/posts/gitblog/1/</guid>
+      <guid>https://1eaf.site/posts/gitblog/1/</guid>
       <description>처음 마주하는 갈림길</description>
     </item>
   </channel>
