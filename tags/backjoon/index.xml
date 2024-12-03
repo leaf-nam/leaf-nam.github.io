@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Thu, 28 Nov 2024 09:14:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 17:20:52 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/backjoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]백준 14942 개미</title>
+      <link>https://1eaf.site/cote/bj_14942/</link>
+      <pubDate>Tue, 03 Dec 2024 17:20:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/bj_14942/</guid>
+      <description>백준 14942 개미 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers 숫자 타자 대회</title>
       <link>https://1eaf.site/cote/programmers_136797/</link>
