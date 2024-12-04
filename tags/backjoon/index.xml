@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Tue, 03 Dec 2024 17:20:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:55:12 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/backjoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers 순위 검색(2021 KAKAO BLIND RECRUITMENT)</title>
+      <link>https://1eaf.site/cote/programmers_72412/</link>
+      <pubDate>Wed, 04 Dec 2024 12:55:12 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_72412/</guid>
+      <description>Programmers 순위 검색(2021 KAKAO BLIND RECRUITMENT) 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]백준 14942 개미</title>
       <link>https://1eaf.site/cote/bj_14942/</link>
