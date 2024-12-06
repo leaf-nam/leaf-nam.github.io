@@ -11,10 +11,17 @@
     <lastBuildDate>Thu, 05 Dec 2024 19:58:51 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Not Allocated</title>
-      <link>https://1eaf.site/tags/not-allocated/</link>
+      <title>Authentication</title>
+      <link>https://1eaf.site/tags/authentication/</link>
       <pubDate>Thu, 05 Dec 2024 19:58:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/not-allocated/</guid>
+      <guid>https://1eaf.site/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jwt</title>
+      <link>https://1eaf.site/tags/jwt/</link>
+      <pubDate>Thu, 05 Dec 2024 19:58:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
@@ -36,13 +43,6 @@
       <link>https://1eaf.site/tags/programmers/</link>
       <pubDate>Wed, 04 Dec 2024 12:55:12 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tags/programmers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Authentication</title>
-      <link>https://1eaf.site/tags/authentication/</link>
-      <pubDate>Fri, 29 Nov 2024 12:24:33 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/authentication/</guid>
       <description></description>
     </item>
     <item>
