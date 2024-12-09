@@ -8,12 +8,12 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Thu, 05 Dec 2024 19:58:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 22:01:51 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Spring Security(With TDD) JWT 구현하기</title>
       <link>https://1eaf.site/posts/spring_security/5/</link>
-      <pubDate>Thu, 05 Dec 2024 19:58:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <pubDate>Mon, 09 Dec 2024 22:01:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/spring_security/5/</guid>
       <description>JWT를 통한 인증을 직접 구현합니다.</description>
     </item>
