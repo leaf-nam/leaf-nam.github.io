@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brute-Force on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/brute-force/</link>
+    <link>http://localhost:1313/tags/brute-force/</link>
     <description>Recent content in Brute-Force on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Mon, 11 Nov 2024 10:59:03 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/brute-force/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/brute-force/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Programmers 모음 사전</title>
-      <link>https://1eaf.site/cote/programmers_84512/</link>
+      <link>http://localhost:1313/cote/programmers_84512/</link>
       <pubDate>Mon, 11 Nov 2024 10:59:03 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_84512/</guid>
+      <guid>http://localhost:1313/cote/programmers_84512/</guid>
       <description>Programmers 모음 사전 문제에 대한 해설입니다.</description>
     </item>
   </channel>

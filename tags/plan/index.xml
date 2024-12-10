@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Plan on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/plan/</link>
+    <link>http://localhost:1313/tags/plan/</link>
     <description>Recent content in Plan on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Sun, 03 Nov 2024 18:18:14 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/plan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/plan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 다시 시작하며...</title>
-      <link>https://1eaf.site/posts/restart/</link>
+      <link>http://localhost:1313/posts/restart/</link>
       <pubDate>Sun, 03 Nov 2024 18:18:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/restart/</guid>
+      <guid>http://localhost:1313/posts/restart/</guid>
       <description>블로그 다시 시작하기</description>
     </item>
     <item>
       <title>블로그를 쓰게 된 계기와 앞으로의 방향성</title>
-      <link>https://1eaf.site/posts/helloworld/</link>
+      <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Wed, 28 Feb 2024 21:06:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/helloworld/</guid>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
       <description>내 첫번째 블로그 포스팅</description>
     </item>
     <item>
       <title>개발 블로그의 종류와 선택</title>
-      <link>https://1eaf.site/posts/gitblog/1/</link>
+      <link>http://localhost:1313/posts/gitblog/1/</link>
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/1/</guid>
+      <guid>http://localhost:1313/posts/gitblog/1/</guid>
       <description>처음 마주하는 갈림길</description>
     </item>
   </channel>
