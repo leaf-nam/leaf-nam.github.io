@@ -11,7 +11,7 @@
     <lastBuildDate>Sat, 14 Dec 2024 23:26:49 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Java]Spring Security(With TDD) JWT oauth2-resource-server 활용헤서 간편하게 구현하기</title>
+      <title>[Java]Spring Security(With TDD) JWT 라이브러리 활용해서 간편하게 구현하기</title>
       <link>https://1eaf.site/posts/spring_security/6/</link>
       <pubDate>Sat, 14 Dec 2024 23:26:49 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/spring_security/6/</guid>
