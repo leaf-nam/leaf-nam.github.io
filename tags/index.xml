@@ -8,8 +8,43 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Sun, 15 Dec 2024 17:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 10:38:16 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication</title>
+      <link>https://1eaf.site/tags/authentication/</link>
+      <pubDate>Thu, 19 Dec 2024 10:38:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oauth2</title>
+      <link>https://1eaf.site/tags/oauth2/</link>
+      <pubDate>Thu, 19 Dec 2024 10:38:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/oauth2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Codingtest</title>
+      <link>https://1eaf.site/tags/codingtest/</link>
+      <pubDate>Wed, 18 Dec 2024 09:23:36 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/codingtest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Implementation</title>
+      <link>https://1eaf.site/tags/implementation/</link>
+      <pubDate>Wed, 18 Dec 2024 09:23:36 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/implementation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programmers</title>
+      <link>https://1eaf.site/tags/programmers/</link>
+      <pubDate>Wed, 18 Dec 2024 09:23:36 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/programmers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Backjoon</title>
       <link>https://1eaf.site/tags/backjoon/</link>
@@ -25,24 +60,10 @@
       <description></description>
     </item>
     <item>
-      <title>Codingtest</title>
-      <link>https://1eaf.site/tags/codingtest/</link>
-      <pubDate>Sun, 15 Dec 2024 17:38:30 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/codingtest/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>TopologySort</title>
       <link>https://1eaf.site/tags/topologysort/</link>
       <pubDate>Sun, 15 Dec 2024 17:38:30 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tags/topologysort/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Authentication</title>
-      <link>https://1eaf.site/tags/authentication/</link>
-      <pubDate>Sat, 14 Dec 2024 23:26:49 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/authentication/</guid>
       <description></description>
     </item>
     <item>
@@ -71,13 +92,6 @@
       <link>https://1eaf.site/tags/authorization/</link>
       <pubDate>Thu, 05 Dec 2024 19:58:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tags/authorization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programmers</title>
-      <link>https://1eaf.site/tags/programmers/</link>
-      <pubDate>Wed, 04 Dec 2024 12:55:12 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/programmers/</guid>
       <description></description>
     </item>
     <item>
@@ -141,13 +155,6 @@
       <link>https://1eaf.site/tags/string/</link>
       <pubDate>Sat, 16 Nov 2024 23:23:44 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tags/string/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Implementation</title>
-      <link>https://1eaf.site/tags/implementation/</link>
-      <pubDate>Thu, 14 Nov 2024 10:00:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/implementation/</guid>
       <description></description>
     </item>
     <item>

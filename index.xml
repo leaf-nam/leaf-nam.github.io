@@ -8,7 +8,7 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Sun, 15 Dec 2024 17:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 10:38:16 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 다시 시작하며...</title>
@@ -37,6 +37,20 @@
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/concept/240513/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
+    </item>
+    <item>
+      <title>[Java]Spring Security(With TDD) OAuth2 로그인 테스트 설계하기</title>
+      <link>https://1eaf.site/posts/spring_security/7/</link>
+      <pubDate>Thu, 19 Dec 2024 10:38:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/posts/spring_security/7/</guid>
+      <description>oauth2-client를 활용해서 OAuth2 로그인 로직을 설계합니다.</description>
+    </item>
+    <item>
+      <title>[Java]Programmers 수식 최대화(2020 KAKAO Internship)</title>
+      <link>https://1eaf.site/cote/programmers_67257/</link>
+      <pubDate>Wed, 18 Dec 2024 09:23:36 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_67257/</guid>
+      <description>Programmers 수식 최대화(2020 KAKAO Internship) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 1005 ACM Craft</title>
