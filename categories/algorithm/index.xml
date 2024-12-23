@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Sat, 21 Dec 2024 10:01:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 15:51:25 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/categories/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers 멀쩡한 사각형</title>
+      <link>https://1eaf.site/cote/programmers_62048/</link>
+      <pubDate>Mon, 23 Dec 2024 15:51:25 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_62048/</guid>
+      <description>Programmers 멀쩡한 사각형 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]코드트리 메두사와 전사들 문제 해설</title>
       <link>https://1eaf.site/cote/codetree_medusa_and_warriors/</link>
