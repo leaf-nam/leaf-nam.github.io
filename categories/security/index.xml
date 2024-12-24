@@ -8,15 +8,8 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Thu, 19 Dec 2024 10:38:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 23:26:49 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/categories/security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[Java]Spring Security(With TDD) OAuth2 로그인 테스트 설계하기</title>
-      <link>https://1eaf.site/posts/spring_security/7/</link>
-      <pubDate>Thu, 19 Dec 2024 10:38:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/7/</guid>
-      <description>oauth2-client를 활용해서 OAuth2 로그인 로직을 설계합니다.</description>
-    </item>
     <item>
       <title>[Java]Spring Security(With TDD) JWT 라이브러리 활용해서 간편하게 구현하기</title>
       <link>https://1eaf.site/posts/spring_security/6/</link>
