@@ -42,11 +42,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://1eaf.site/tips/240513/</loc>
-    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://1eaf.site/cote/</loc>
     <lastmod>2024-06-01T06:26:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -518,6 +513,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://1eaf.site/categories/jpa/</loc>
+    <lastmod>2024-05-13T21:01:16+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://1eaf.site/tips/240513/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

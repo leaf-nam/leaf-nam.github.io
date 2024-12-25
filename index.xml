@@ -32,13 +32,6 @@
       <description>처음 마주하는 갈림길</description>
     </item>
     <item>
-      <title>JPA Cascade vs Orphan Removal</title>
-      <link>https://1eaf.site/tips/240513/</link>
-      <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240513/</guid>
-      <description>Cascade의 개념 차이에 대해 정리합니다.</description>
-    </item>
-    <item>
       <title>[Java]Programmers 멀쩡한 사각형</title>
       <link>https://1eaf.site/cote/programmers_62048/</link>
       <pubDate>Mon, 23 Dec 2024 15:51:25 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
@@ -296,6 +289,13 @@
       <pubDate>Fri, 31 May 2024 20:57:13 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/cote/bj_16927/</guid>
       <description>백준 16927 배열 돌리기 2 문제에 대한 해설입니다.</description>
+    </item>
+    <item>
+      <title>JPA Cascade vs Orphan Removal</title>
+      <link>https://1eaf.site/tips/240513/</link>
+      <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tips/240513/</guid>
+      <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
     <item>
       <title>MockMvc Object mapper nested class utf-8 인코딩 오류 해결하기</title>
