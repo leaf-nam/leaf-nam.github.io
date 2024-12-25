@@ -12,9 +12,9 @@
     <atom:link href="https://1eaf.site/tags/concept/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JPA Cascade vs Orphan Removal</title>
-      <link>https://1eaf.site/concept/240513/</link>
+      <link>https://1eaf.site/tips/240513/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/concept/240513/</guid>
+      <guid>https://1eaf.site/tips/240513/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
     <item>
