@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Sun, 15 Dec 2024 17:38:30 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:49:24 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/backjoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]백준 17470 배열 돌리기 5</title>
+      <link>https://1eaf.site/cote/bj_17470/</link>
+      <pubDate>Tue, 31 Dec 2024 09:49:24 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/bj_17470/</guid>
+      <description>백준 17470 배열돌리기 5 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]백준 1005 ACM Craft</title>
       <link>https://1eaf.site/cote/bj_1005/</link>
