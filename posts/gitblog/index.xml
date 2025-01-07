@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>좌충우돌 깃허브 블로그 생성기 on 봄을 기다리는 낙엽</title>
-    <link>http://localhost:1313/posts/gitblog/</link>
+    <link>https://1eaf.site/posts/gitblog/</link>
     <description>Recent content in 좌충우돌 깃허브 블로그 생성기 on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Tue, 05 Mar 2024 19:08:20 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/gitblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://1eaf.site/posts/gitblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그의 종류와 선택</title>
-      <link>http://localhost:1313/posts/gitblog/1/</link>
+      <link>https://1eaf.site/posts/gitblog/1/</link>
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>http://localhost:1313/posts/gitblog/1/</guid>
+      <guid>https://1eaf.site/posts/gitblog/1/</guid>
       <description>처음 마주하는 갈림길</description>
     </item>
     <item>
       <title>깃허브 블로그 댓글 구현 : Utterances 도입기</title>
-      <link>http://localhost:1313/posts/gitblog/5/</link>
+      <link>https://1eaf.site/posts/gitblog/5/</link>
       <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>http://localhost:1313/posts/gitblog/5/</guid>
+      <guid>https://1eaf.site/posts/gitblog/5/</guid>
       <description>블로그 댓글을 구현할 수 있는 utterances를 적용합니다.</description>
     </item>
     <item>
       <title>Git 연동과 정적 페이지 배포</title>
-      <link>http://localhost:1313/posts/gitblog/4/</link>
+      <link>https://1eaf.site/posts/gitblog/4/</link>
       <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>http://localhost:1313/posts/gitblog/4/</guid>
+      <guid>https://1eaf.site/posts/gitblog/4/</guid>
       <description>생성한 블로그와 깃을 연동 후 웹페이지를 등록합니다.</description>
     </item>
     <item>
       <title>HUGO 기본 설치 및 사용법</title>
-      <link>http://localhost:1313/posts/gitblog/3/</link>
+      <link>https://1eaf.site/posts/gitblog/3/</link>
       <pubDate>Sun, 03 Mar 2024 07:49:45 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>http://localhost:1313/posts/gitblog/3/</guid>
+      <guid>https://1eaf.site/posts/gitblog/3/</guid>
       <description>HUGO를 이제 직접 설치 및 세팅해보겠습니다.</description>
     </item>
     <item>
       <title>SSG에 대하여</title>
-      <link>http://localhost:1313/posts/gitblog/2/</link>
+      <link>https://1eaf.site/posts/gitblog/2/</link>
       <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>http://localhost:1313/posts/gitblog/2/</guid>
+      <guid>https://1eaf.site/posts/gitblog/2/</guid>
       <description>SSG에 대해 알아보는 시간을 가집니다.</description>
     </item>
   </channel>
