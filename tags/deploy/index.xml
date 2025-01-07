@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Deploy on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/deploy/</link>
+    <link>http://localhost:1313/tags/deploy/</link>
     <description>Recent content in Deploy on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Mon, 04 Mar 2024 16:50:39 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git 연동과 정적 페이지 배포</title>
-      <link>https://1eaf.site/posts/gitblog/4/</link>
+      <link>http://localhost:1313/posts/gitblog/4/</link>
       <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/4/</guid>
+      <guid>http://localhost:1313/posts/gitblog/4/</guid>
       <description>생성한 블로그와 깃을 연동 후 웹페이지를 등록합니다.</description>
     </item>
   </channel>
