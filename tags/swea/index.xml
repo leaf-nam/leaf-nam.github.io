@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SWEA on 봄을 기다리는 낙엽</title>
+    <link>https://1eaf.site/tags/swea/</link>
+    <description>Recent content in SWEA on 봄을 기다리는 낙엽</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
+    <lastBuildDate>Mon, 13 Jan 2025 09:47:57 +0900</lastBuildDate>
+    <atom:link href="https://1eaf.site/tags/swea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]SWEA 1249 보급로</title>
+      <link>https://1eaf.site/cote/swea_1249/</link>
+      <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/swea_1249/</guid>
+      <description>SWEA 1249 보급로 문제에 대한 해설입니다.</description>
+    </item>
+  </channel>
+</rss>

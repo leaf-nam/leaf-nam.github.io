@@ -8,13 +8,27 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Tue, 07 Jan 2025 13:47:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:47:57 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BFS</title>
+      <link>https://1eaf.site/tags/bfs/</link>
+      <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/bfs/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Codingtest</title>
       <link>https://1eaf.site/tags/codingtest/</link>
-      <pubDate>Tue, 07 Jan 2025 13:47:29 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tags/codingtest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SWEA</title>
+      <link>https://1eaf.site/tags/swea/</link>
+      <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tags/swea/</guid>
       <description></description>
     </item>
     <item>
@@ -57,13 +71,6 @@
       <link>https://1eaf.site/tags/euclidean/</link>
       <pubDate>Mon, 23 Dec 2024 15:51:25 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/tags/euclidean/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bfs</title>
-      <link>https://1eaf.site/tags/bfs/</link>
-      <pubDate>Sat, 21 Dec 2024 10:01:55 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tags/bfs/</guid>
       <description></description>
     </item>
     <item>

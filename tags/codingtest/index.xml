@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Tue, 07 Jan 2025 13:47:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:47:57 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/codingtest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]SWEA 1249 보급로</title>
+      <link>https://1eaf.site/cote/swea_1249/</link>
+      <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/swea_1249/</guid>
+      <description>SWEA 1249 보급로 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers 산 모양 타일링(2024 KAKAO WINTER INTERNSHIP)</title>
       <link>https://1eaf.site/cote/programmers_258705/</link>
