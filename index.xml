@@ -8,7 +8,7 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Mon, 13 Jan 2025 09:47:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 10:50:48 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 다시 시작하며...</title>
@@ -30,6 +30,13 @@
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/gitblog/1/</guid>
       <description>처음 마주하는 갈림길</description>
+    </item>
+    <item>
+      <title>[Java]Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP)</title>
+      <link>https://1eaf.site/cote/programmers_118669/</link>
+      <pubDate>Wed, 22 Jan 2025 10:50:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_118669/</guid>
+      <description>Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]SWEA 1249 보급로</title>
