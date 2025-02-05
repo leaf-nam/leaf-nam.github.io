@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Wed, 22 Jan 2025 10:50:48 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:55:04 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/cote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers 표 병합(2023 KAKAO BLIND RECRUITMENT)</title>
+      <link>https://1eaf.site/cote/programmers_150366/</link>
+      <pubDate>Wed, 05 Feb 2025 09:55:04 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_150366/</guid>
+      <description>Programmers 표 병합(2023 KAKAO BLIND RECRUITMENT) 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP)</title>
       <link>https://1eaf.site/cote/programmers_118669/</link>
