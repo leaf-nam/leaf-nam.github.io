@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Mon, 10 Feb 2025 12:14:05 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 14:12:46 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/cote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers GPS(2017 카카오코드 본선)</title>
+      <link>https://1eaf.site/cote/programmers_1837/</link>
+      <pubDate>Tue, 18 Feb 2025 14:12:46 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_1837/</guid>
+      <description>Programmers GPS(2017 카카오코드 본선) 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers 자물쇠와 열쇠(2020 KAKAO BLIND RECRUITMENT)</title>
       <link>https://1eaf.site/cote/programmers_60059/</link>
