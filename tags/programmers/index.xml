@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Tue, 18 Feb 2025 14:12:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 16:14:34 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/programmers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Programmers 불량 사용자(2019 카카오 개발자 겨울 인턴십)</title>
+      <link>https://1eaf.site/cote/programmers_64064/</link>
+      <pubDate>Wed, 26 Feb 2025 16:14:34 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_64064/</guid>
+      <description>Programmers 불량 사용자(2019 카카오 개발자 겨울 인턴십) 문제에 대한 해설입니다.</description>
+    </item>
     <item>
       <title>[Java]Programmers GPS(2017 카카오코드 본선)</title>
       <link>https://1eaf.site/cote/programmers_1837/</link>
