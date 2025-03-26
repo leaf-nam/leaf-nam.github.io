@@ -8,7 +8,7 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Wed, 26 Feb 2025 16:14:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 10:27:18 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 다시 시작하며...</title>
@@ -30,6 +30,27 @@
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
       <guid>https://1eaf.site/posts/gitblog/1/</guid>
       <description>처음 마주하는 갈림길</description>
+    </item>
+    <item>
+      <title>[Java]Programmers 에어컨</title>
+      <link>https://1eaf.site/cote/programmers_214289/</link>
+      <pubDate>Wed, 26 Mar 2025 10:27:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_214289/</guid>
+      <description>Programmers 에어컨 문제에 대한 해설입니다.</description>
+    </item>
+    <item>
+      <title>[Java]Programmers 봉인된 주문</title>
+      <link>https://1eaf.site/cote/programmers_389481/</link>
+      <pubDate>Mon, 17 Mar 2025 16:02:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/cote/programmers_389481/</guid>
+      <description>Programmers 봉인된 주문 문제에 대한 해설입니다.</description>
+    </item>
+    <item>
+      <title>NGinX 심볼릭 링크 트러블슈팅</title>
+      <link>https://1eaf.site/tips/250311/</link>
+      <pubDate>Tue, 11 Mar 2025 15:40:09 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tips/250311/</guid>
+      <description>NGinX 심볼릭 링크 생성 중 발생한 오류를 해결합니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 불량 사용자(2019 카카오 개발자 겨울 인턴십)</title>

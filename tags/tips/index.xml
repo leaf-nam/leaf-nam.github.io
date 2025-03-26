@@ -8,8 +8,15 @@
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Wed, 20 Nov 2024 23:24:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 15:40:09 +0900</lastBuildDate>
     <atom:link href="https://1eaf.site/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NGinX 심볼릭 링크 트러블슈팅</title>
+      <link>https://1eaf.site/tips/250311/</link>
+      <pubDate>Tue, 11 Mar 2025 15:40:09 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://1eaf.site/tips/250311/</guid>
+      <description>NGinX 심볼릭 링크 생성 중 발생한 오류를 해결합니다.</description>
+    </item>
     <item>
       <title>[DNS] 가비아 도메인으로 Vercel 홈페이지 배포 시 SSL 인증서 만료 해결</title>
       <link>https://1eaf.site/tips/241120/</link>
