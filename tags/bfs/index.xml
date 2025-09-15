@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BFS on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/bfs/</link>
+    <link>https://leaf-nam.github.io/tags/bfs/</link>
     <description>Recent content in BFS on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Wed, 22 Jan 2025 10:50:48 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/tags/bfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP)</title>
-      <link>https://1eaf.site/cote/programmers_118669/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_118669/</link>
       <pubDate>Wed, 22 Jan 2025 10:50:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_118669/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_118669/</guid>
       <description>Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]SWEA 1249 보급로</title>
-      <link>https://1eaf.site/cote/swea_1249/</link>
+      <link>https://leaf-nam.github.io/cote/swea_1249/</link>
       <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/swea_1249/</guid>
+      <guid>https://leaf-nam.github.io/cote/swea_1249/</guid>
       <description>SWEA 1249 보급로 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]코드트리 메두사와 전사들 문제 해설</title>
-      <link>https://1eaf.site/cote/codetree_medusa_and_warriors/</link>
+      <link>https://leaf-nam.github.io/cote/codetree_medusa_and_warriors/</link>
       <pubDate>Sat, 21 Dec 2024 10:01:55 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/codetree_medusa_and_warriors/</guid>
+      <guid>https://leaf-nam.github.io/cote/codetree_medusa_and_warriors/</guid>
       <description>코드트리 메두사와 전사들 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 1005 ACM Craft</title>
-      <link>https://1eaf.site/cote/bj_1005/</link>
+      <link>https://leaf-nam.github.io/cote/bj_1005/</link>
       <pubDate>Sun, 15 Dec 2024 17:38:30 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_1005/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_1005/</guid>
       <description>Bj 1005 ACM Craft 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 2573 빙산</title>
-      <link>https://1eaf.site/cote/bj_2573/</link>
+      <link>https://leaf-nam.github.io/cote/bj_2573/</link>
       <pubDate>Thu, 27 Jun 2024 11:35:43 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_2573/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_2573/</guid>
       <description>백준 2573 빙산 문제에 대한 해설입니다.</description>
     </item>
   </channel>

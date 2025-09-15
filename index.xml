@@ -2,481 +2,481 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/</link>
+    <link>https://leaf-nam.github.io/</link>
     <description>Recent content on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Wed, 26 Mar 2025 10:27:18 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 다시 시작하며...</title>
-      <link>https://1eaf.site/posts/restart/</link>
+      <link>https://leaf-nam.github.io/posts/restart/</link>
       <pubDate>Sun, 03 Nov 2024 18:18:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/restart/</guid>
+      <guid>https://leaf-nam.github.io/posts/restart/</guid>
       <description>블로그 다시 시작하기</description>
     </item>
     <item>
       <title>블로그를 쓰게 된 계기와 앞으로의 방향성</title>
-      <link>https://1eaf.site/posts/helloworld/</link>
+      <link>https://leaf-nam.github.io/posts/helloworld/</link>
       <pubDate>Wed, 28 Feb 2024 21:06:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/helloworld/</guid>
+      <guid>https://leaf-nam.github.io/posts/helloworld/</guid>
       <description>내 첫번째 블로그 포스팅</description>
     </item>
     <item>
       <title>개발 블로그의 종류와 선택</title>
-      <link>https://1eaf.site/posts/gitblog/1/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/1/</link>
       <pubDate>Thu, 29 Feb 2024 21:28:56 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/1/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/1/</guid>
       <description>처음 마주하는 갈림길</description>
     </item>
     <item>
       <title>[Java]Programmers 에어컨</title>
-      <link>https://1eaf.site/cote/programmers_214289/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_214289/</link>
       <pubDate>Wed, 26 Mar 2025 10:27:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_214289/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_214289/</guid>
       <description>Programmers 에어컨 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 봉인된 주문</title>
-      <link>https://1eaf.site/cote/programmers_389481/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_389481/</link>
       <pubDate>Mon, 17 Mar 2025 16:02:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_389481/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_389481/</guid>
       <description>Programmers 봉인된 주문 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>NGinX 심볼릭 링크 트러블슈팅</title>
-      <link>https://1eaf.site/tips/250311/</link>
+      <link>https://leaf-nam.github.io/tips/250311/</link>
       <pubDate>Tue, 11 Mar 2025 15:40:09 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/250311/</guid>
+      <guid>https://leaf-nam.github.io/tips/250311/</guid>
       <description>NGinX 심볼릭 링크 생성 중 발생한 오류를 해결합니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 불량 사용자(2019 카카오 개발자 겨울 인턴십)</title>
-      <link>https://1eaf.site/cote/programmers_64064/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_64064/</link>
       <pubDate>Wed, 26 Feb 2025 16:14:34 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_64064/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_64064/</guid>
       <description>Programmers 불량 사용자(2019 카카오 개발자 겨울 인턴십) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers GPS(2017 카카오코드 본선)</title>
-      <link>https://1eaf.site/cote/programmers_1837/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_1837/</link>
       <pubDate>Tue, 18 Feb 2025 14:12:46 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_1837/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_1837/</guid>
       <description>Programmers GPS(2017 카카오코드 본선) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 자물쇠와 열쇠(2020 KAKAO BLIND RECRUITMENT)</title>
-      <link>https://1eaf.site/cote/programmers_60059/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_60059/</link>
       <pubDate>Mon, 10 Feb 2025 12:14:05 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_60059/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_60059/</guid>
       <description>Programmers 자물쇠와 열쇠(2020 KAKAO BLIND RECRUITMENT) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 110 옮기기</title>
-      <link>https://1eaf.site/cote/programmers_77886/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_77886/</link>
       <pubDate>Wed, 05 Feb 2025 11:21:43 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_77886/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_77886/</guid>
       <description>Programmers 110 옮기기 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 표 병합(2023 KAKAO BLIND RECRUITMENT)</title>
-      <link>https://1eaf.site/cote/programmers_150366/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_150366/</link>
       <pubDate>Wed, 05 Feb 2025 09:55:04 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_150366/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_150366/</guid>
       <description>Programmers 표 병합(2023 KAKAO BLIND RECRUITMENT) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP)</title>
-      <link>https://1eaf.site/cote/programmers_118669/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_118669/</link>
       <pubDate>Wed, 22 Jan 2025 10:50:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_118669/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_118669/</guid>
       <description>Programmers 등산코스 정하기(2022 KAKAO TECH INTERNSHIP) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]SWEA 1249 보급로</title>
-      <link>https://1eaf.site/cote/swea_1249/</link>
+      <link>https://leaf-nam.github.io/cote/swea_1249/</link>
       <pubDate>Mon, 13 Jan 2025 09:47:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/swea_1249/</guid>
+      <guid>https://leaf-nam.github.io/cote/swea_1249/</guid>
       <description>SWEA 1249 보급로 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 산 모양 타일링(2024 KAKAO WINTER INTERNSHIP)</title>
-      <link>https://1eaf.site/cote/programmers_258705/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_258705/</link>
       <pubDate>Tue, 07 Jan 2025 13:47:29 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_258705/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_258705/</guid>
       <description>2024 KAKAO WINTER INTERNSHIP 산 모양 타일링 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 17470 배열 돌리기 5</title>
-      <link>https://1eaf.site/cote/bj_17470/</link>
+      <link>https://leaf-nam.github.io/cote/bj_17470/</link>
       <pubDate>Tue, 31 Dec 2024 09:49:24 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_17470/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_17470/</guid>
       <description>백준 17470 배열돌리기 5 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 멀쩡한 사각형</title>
-      <link>https://1eaf.site/cote/programmers_62048/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_62048/</link>
       <pubDate>Mon, 23 Dec 2024 15:51:25 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_62048/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_62048/</guid>
       <description>Programmers 멀쩡한 사각형 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]코드트리 메두사와 전사들 문제 해설</title>
-      <link>https://1eaf.site/cote/codetree_medusa_and_warriors/</link>
+      <link>https://leaf-nam.github.io/cote/codetree_medusa_and_warriors/</link>
       <pubDate>Sat, 21 Dec 2024 10:01:55 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/codetree_medusa_and_warriors/</guid>
+      <guid>https://leaf-nam.github.io/cote/codetree_medusa_and_warriors/</guid>
       <description>코드트리 메두사와 전사들 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 수식 최대화(2020 KAKAO Internship)</title>
-      <link>https://1eaf.site/cote/programmers_67257/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_67257/</link>
       <pubDate>Wed, 18 Dec 2024 09:23:36 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_67257/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_67257/</guid>
       <description>Programmers 수식 최대화(2020 KAKAO Internship) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 1005 ACM Craft</title>
-      <link>https://1eaf.site/cote/bj_1005/</link>
+      <link>https://leaf-nam.github.io/cote/bj_1005/</link>
       <pubDate>Sun, 15 Dec 2024 17:38:30 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_1005/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_1005/</guid>
       <description>Bj 1005 ACM Craft 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security(With TDD) JWT 라이브러리 활용해서 간편하게 구현하기</title>
-      <link>https://1eaf.site/posts/spring_security/6/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/6/</link>
       <pubDate>Sat, 14 Dec 2024 23:26:49 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/6/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/6/</guid>
       <description>JWT를 통한 인증을 oauth2-resource-server를 활용해서 간편하게 구현합니다.</description>
     </item>
     <item>
       <title>[Java]백준 9202 Boggle</title>
-      <link>https://1eaf.site/cote/bj_9202/</link>
+      <link>https://leaf-nam.github.io/cote/bj_9202/</link>
       <pubDate>Tue, 10 Dec 2024 13:51:29 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_9202/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_9202/</guid>
       <description>백준 9202 Boggle 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security(With TDD) JWT 직접 구현하기</title>
-      <link>https://1eaf.site/posts/spring_security/5/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/5/</link>
       <pubDate>Mon, 09 Dec 2024 22:01:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/5/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/5/</guid>
       <description>JWT를 통한 인증을 직접 구현합니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security(With TDD) 기본 인증 및 인가 구현하기</title>
-      <link>https://1eaf.site/posts/spring_security/4/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/4/</link>
       <pubDate>Thu, 05 Dec 2024 19:58:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/4/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/4/</guid>
       <description>TDD로 Spring Security의 기본 인증 및 인가를 구현합니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 순위 검색(2021 KAKAO BLIND RECRUITMENT)</title>
-      <link>https://1eaf.site/cote/programmers_72412/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_72412/</link>
       <pubDate>Wed, 04 Dec 2024 12:55:12 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_72412/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_72412/</guid>
       <description>Programmers 순위 검색(2021 KAKAO BLIND RECRUITMENT) 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 14942 개미</title>
-      <link>https://1eaf.site/cote/bj_14942/</link>
+      <link>https://leaf-nam.github.io/cote/bj_14942/</link>
       <pubDate>Tue, 03 Dec 2024 17:20:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_14942/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_14942/</guid>
       <description>백준 14942 개미 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security 인증(Authentication)과 인가(Authorization)</title>
-      <link>https://1eaf.site/posts/spring_security/3/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/3/</link>
       <pubDate>Fri, 29 Nov 2024 12:24:33 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/3/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/3/</guid>
       <description>Spring Security의 인가 로직에 대해 알아봅니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 숫자 타자 대회</title>
-      <link>https://1eaf.site/cote/programmers_136797/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_136797/</link>
       <pubDate>Thu, 28 Nov 2024 09:14:35 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_136797/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_136797/</guid>
       <description>Programmers 숫자 타자 대회 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 혼자 놀기의 달인</title>
-      <link>https://1eaf.site/cote/programmers_131130/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_131130/</link>
       <pubDate>Mon, 25 Nov 2024 08:57:41 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_131130/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_131130/</guid>
       <description>Programmers 혼자 놀기의 달인 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[DNS] 가비아 도메인으로 Vercel 홈페이지 배포 시 SSL 인증서 만료 해결</title>
-      <link>https://1eaf.site/tips/241120/</link>
+      <link>https://leaf-nam.github.io/tips/241120/</link>
       <pubDate>Wed, 20 Nov 2024 23:24:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/241120/</guid>
+      <guid>https://leaf-nam.github.io/tips/241120/</guid>
       <description>가비아 도메인으로 Vercel로 배포 시 발생할 수 있는 SSL 인증서 만료 문제를 해결합니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank No Prefix Set</title>
-      <link>https://1eaf.site/cote/hackerrank_no_prefix_set/</link>
+      <link>https://leaf-nam.github.io/cote/hackerrank_no_prefix_set/</link>
       <pubDate>Tue, 19 Nov 2024 21:11:19 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/hackerrank_no_prefix_set/</guid>
+      <guid>https://leaf-nam.github.io/cote/hackerrank_no_prefix_set/</guid>
       <description>HackerRank No Prefix Set 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java] JPA detached entity passed to persist 오류 해결하기</title>
-      <link>https://1eaf.site/tips/241118/</link>
+      <link>https://leaf-nam.github.io/tips/241118/</link>
       <pubDate>Mon, 18 Nov 2024 22:53:05 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/241118/</guid>
+      <guid>https://leaf-nam.github.io/tips/241118/</guid>
       <description>detached entity passed to persist 오류를 해결합니다.</description>
     </item>
     <item>
       <title>[Java]String에서 공백 제거하기</title>
-      <link>https://1eaf.site/tips/241116/</link>
+      <link>https://leaf-nam.github.io/tips/241116/</link>
       <pubDate>Sat, 16 Nov 2024 23:23:44 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/241116/</guid>
+      <guid>https://leaf-nam.github.io/tips/241116/</guid>
       <description>Java String에서 공백을 제거합니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank New Year Chaos</title>
-      <link>https://1eaf.site/cote/hackerrank_new_year_chaos/</link>
+      <link>https://leaf-nam.github.io/cote/hackerrank_new_year_chaos/</link>
       <pubDate>Fri, 15 Nov 2024 21:35:28 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/hackerrank_new_year_chaos/</guid>
+      <guid>https://leaf-nam.github.io/cote/hackerrank_new_year_chaos/</guid>
       <description>HackerRank New Year Chaos 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 2개 이하로 다른 비트</title>
-      <link>https://1eaf.site/cote/programmers_77885/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_77885/</link>
       <pubDate>Thu, 14 Nov 2024 10:00:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_77885/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_77885/</guid>
       <description>[Programmers 2개 이하로 다른 비트] 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank Gridland Metro</title>
-      <link>https://1eaf.site/cote/hackerrank_gridland_metro/</link>
+      <link>https://leaf-nam.github.io/cote/hackerrank_gridland_metro/</link>
       <pubDate>Wed, 13 Nov 2024 11:04:47 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/hackerrank_gridland_metro/</guid>
+      <guid>https://leaf-nam.github.io/cote/hackerrank_gridland_metro/</guid>
       <description>HackerRank Gridland Metro 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank Non Divisible Subset</title>
-      <link>https://1eaf.site/cote/hackerrank_non_divisible_subset/</link>
+      <link>https://leaf-nam.github.io/cote/hackerrank_non_divisible_subset/</link>
       <pubDate>Tue, 12 Nov 2024 10:33:05 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/hackerrank_non_divisible_subset/</guid>
+      <guid>https://leaf-nam.github.io/cote/hackerrank_non_divisible_subset/</guid>
       <description>HackerRank Non Divisible Subset 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security 예외처리, 캐싱, 로깅</title>
-      <link>https://1eaf.site/posts/spring_security/2/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/2/</link>
       <pubDate>Mon, 11 Nov 2024 21:36:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/2/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/2/</guid>
       <description>Spring Security의 기본 예외처리 및 캐싱, 로깅에 대해 알아봅니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 모음 사전</title>
-      <link>https://1eaf.site/cote/programmers_84512/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_84512/</link>
       <pubDate>Mon, 11 Nov 2024 10:59:03 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_84512/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_84512/</guid>
       <description>Programmers 모음 사전 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 빛의 경로 사이클</title>
-      <link>https://1eaf.site/cote/programmers_86052/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_86052/</link>
       <pubDate>Sun, 10 Nov 2024 17:33:01 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_86052/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_86052/</guid>
       <description>Programmers 빛의 경로 사이클 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Programmers 연속 부분 수열 합의 개수</title>
-      <link>https://1eaf.site/cote/programmers_131701/</link>
+      <link>https://leaf-nam.github.io/cote/programmers_131701/</link>
       <pubDate>Sat, 09 Nov 2024 22:20:29 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/programmers_131701/</guid>
+      <guid>https://leaf-nam.github.io/cote/programmers_131701/</guid>
       <description>Programmers 연속 부분 수열 합의 개수 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security WebMVC 기본 구조</title>
-      <link>https://1eaf.site/posts/spring_security/1/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/1/</link>
       <pubDate>Wed, 06 Nov 2024 19:19:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/1/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/1/</guid>
       <description>Spring Security의 기본 구조인 필터에 대해서 알아봅니다.</description>
     </item>
     <item>
       <title>[Java]HackerRank Lego Blocks</title>
-      <link>https://1eaf.site/cote/hackerrank_lego_blocks/</link>
+      <link>https://leaf-nam.github.io/cote/hackerrank_lego_blocks/</link>
       <pubDate>Sun, 03 Nov 2024 11:14:50 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/hackerrank_lego_blocks/</guid>
+      <guid>https://leaf-nam.github.io/cote/hackerrank_lego_blocks/</guid>
       <description>HackerRank Lego Blocks 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>객체지향의 사실과 오해</title>
-      <link>https://1eaf.site/review/oop_fact_mislead/</link>
+      <link>https://leaf-nam.github.io/review/oop_fact_mislead/</link>
       <pubDate>Wed, 10 Jul 2024 11:41:32 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/review/oop_fact_mislead/</guid>
+      <guid>https://leaf-nam.github.io/review/oop_fact_mislead/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
       <title>[Java]백준 16236 아기 상어</title>
-      <link>https://1eaf.site/cote/bj_16236/</link>
+      <link>https://leaf-nam.github.io/cote/bj_16236/</link>
       <pubDate>Mon, 08 Jul 2024 18:05:08 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_16236/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_16236/</guid>
       <description>백준 16236 아기 상어 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 2573 빙산</title>
-      <link>https://1eaf.site/cote/bj_2573/</link>
+      <link>https://leaf-nam.github.io/cote/bj_2573/</link>
       <pubDate>Thu, 27 Jun 2024 11:35:43 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_2573/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_2573/</guid>
       <description>백준 2573 빙산 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 1753 다익스트라</title>
-      <link>https://1eaf.site/cote/bj_1753/</link>
+      <link>https://leaf-nam.github.io/cote/bj_1753/</link>
       <pubDate>Fri, 21 Jun 2024 09:55:27 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_1753/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_1753/</guid>
       <description>백준 1753 다익스트라 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 1976 여행 가자</title>
-      <link>https://1eaf.site/cote/bj_1976/</link>
+      <link>https://leaf-nam.github.io/cote/bj_1976/</link>
       <pubDate>Thu, 20 Jun 2024 08:29:30 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_1976/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_1976/</guid>
       <description>백준 1976 여행 가자 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 14503 로봇 청소기</title>
-      <link>https://1eaf.site/cote/bj_14503/</link>
+      <link>https://leaf-nam.github.io/cote/bj_14503/</link>
       <pubDate>Wed, 19 Jun 2024 10:32:37 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_14503/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_14503/</guid>
       <description>백준 14503 로봇 청소기 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 1806 부분합</title>
-      <link>https://1eaf.site/cote/bj_1806/</link>
+      <link>https://leaf-nam.github.io/cote/bj_1806/</link>
       <pubDate>Wed, 12 Jun 2024 09:03:34 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_1806/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_1806/</guid>
       <description>백준 1806 부분합 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 4195 친구 네트워크</title>
-      <link>https://1eaf.site/cote/bj_4195/</link>
+      <link>https://leaf-nam.github.io/cote/bj_4195/</link>
       <pubDate>Mon, 03 Jun 2024 06:59:21 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_4195/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_4195/</guid>
       <description>백준 4195 친구 네트워크 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 12904 A와 B</title>
-      <link>https://1eaf.site/cote/bj_12904/</link>
+      <link>https://leaf-nam.github.io/cote/bj_12904/</link>
       <pubDate>Sun, 02 Jun 2024 05:51:58 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_12904/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_12904/</guid>
       <description>백준 12904 A와 B 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>[Java]백준 16927 배열 돌리기 2</title>
-      <link>https://1eaf.site/cote/bj_16927/</link>
+      <link>https://leaf-nam.github.io/cote/bj_16927/</link>
       <pubDate>Fri, 31 May 2024 20:57:13 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_16927/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_16927/</guid>
       <description>백준 16927 배열 돌리기 2 문제에 대한 해설입니다.</description>
     </item>
     <item>
       <title>JPA Cascade vs Orphan Removal</title>
-      <link>https://1eaf.site/tips/240513/</link>
+      <link>https://leaf-nam.github.io/tips/240513/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240513/</guid>
+      <guid>https://leaf-nam.github.io/tips/240513/</guid>
       <description>Cascade의 개념 차이에 대해 정리합니다.</description>
     </item>
     <item>
       <title>MockMvc Object mapper nested class utf-8 인코딩 오류 해결하기</title>
-      <link>https://1eaf.site/tips/240507/</link>
+      <link>https://leaf-nam.github.io/tips/240507/</link>
       <pubDate>Tue, 07 May 2024 17:03:40 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240507/</guid>
+      <guid>https://leaf-nam.github.io/tips/240507/</guid>
       <description>Object Mapper 사용 시 만날 수 있는 오류를 해결합니다.</description>
     </item>
     <item>
       <title>Test Driven Development: By Example</title>
-      <link>https://1eaf.site/review/test-driven_development_by_example/</link>
+      <link>https://leaf-nam.github.io/review/test-driven_development_by_example/</link>
       <pubDate>Sun, 28 Apr 2024 23:38:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/review/test-driven_development_by_example/</guid>
+      <guid>https://leaf-nam.github.io/review/test-driven_development_by_example/</guid>
       <description>켄트 백의 TDD에 대한 리뷰입니다.</description>
     </item>
     <item>
       <title>Unit Testing</title>
-      <link>https://1eaf.site/review/unit_testing/</link>
+      <link>https://leaf-nam.github.io/review/unit_testing/</link>
       <pubDate>Sun, 14 Apr 2024 19:37:37 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/review/unit_testing/</guid>
+      <guid>https://leaf-nam.github.io/review/unit_testing/</guid>
       <description>Unit Testing 책에 대한 리뷰입니다.</description>
     </item>
     <item>
       <title>Org.springframework.data.mapping.MappingException 오류 해결</title>
-      <link>https://1eaf.site/tips/240402/</link>
+      <link>https://leaf-nam.github.io/tips/240402/</link>
       <pubDate>Tue, 02 Apr 2024 22:36:05 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240402/</guid>
+      <guid>https://leaf-nam.github.io/tips/240402/</guid>
       <description>Spring Data MongoDB에서 자주 만나는 MappingException 오류를 해결합니다.</description>
     </item>
     <item>
       <title>Lombok 생성자 주입 시 인터페이스 주입하기</title>
-      <link>https://1eaf.site/tips/240329/</link>
+      <link>https://leaf-nam.github.io/tips/240329/</link>
       <pubDate>Fri, 29 Mar 2024 06:18:57 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240329/</guid>
+      <guid>https://leaf-nam.github.io/tips/240329/</guid>
       <description>롬복을 활용해서 인터페이스를 생성자 주입받을 수 있습니다.</description>
     </item>
     <item>
       <title>Jnuit 테스트에서 객체 필드명 비교하기</title>
-      <link>https://1eaf.site/tips/240323/</link>
+      <link>https://leaf-nam.github.io/tips/240323/</link>
       <pubDate>Sat, 23 Mar 2024 23:19:23 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240323/</guid>
+      <guid>https://leaf-nam.github.io/tips/240323/</guid>
       <description>Junit에서 객체 필드명을 편하게 테스트할 수 있습니다.</description>
     </item>
     <item>
       <title>Springboot Junit 단위테스트에서 로그 레벨 조정하기</title>
-      <link>https://1eaf.site/tips/240320/</link>
+      <link>https://leaf-nam.github.io/tips/240320/</link>
       <pubDate>Wed, 20 Mar 2024 23:43:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/240320/</guid>
+      <guid>https://leaf-nam.github.io/tips/240320/</guid>
       <description>스프링부트 단위테스트에서 간단하게 로그 레벨을 조정할 수 있습니다.</description>
     </item>
     <item>
       <title>[Java]SpringBoot DataSource 이중화(CQRS 패턴) 구현</title>
-      <link>https://1eaf.site/posts/cqrs/3/</link>
+      <link>https://leaf-nam.github.io/posts/cqrs/3/</link>
       <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/cqrs/3/</guid>
+      <guid>https://leaf-nam.github.io/posts/cqrs/3/</guid>
       <description>이중화된 MySQL DB에 접근할 수 있는 DataSource를 설정합니다.</description>
     </item>
     <item>
       <title>[MySQL]Replication Database 구현</title>
-      <link>https://1eaf.site/posts/cqrs/2/</link>
+      <link>https://leaf-nam.github.io/posts/cqrs/2/</link>
       <pubDate>Wed, 13 Mar 2024 23:07:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/cqrs/2/</guid>
+      <guid>https://leaf-nam.github.io/posts/cqrs/2/</guid>
       <description>Docker와 MySQL을 활용하여 Replication Database를 구현하는 실습을 진행합니다.</description>
     </item>
     <item>
       <title>DB 이중화 및 CQRS 패턴의 중요성</title>
-      <link>https://1eaf.site/posts/cqrs/1/</link>
+      <link>https://leaf-nam.github.io/posts/cqrs/1/</link>
       <pubDate>Mon, 11 Mar 2024 22:51:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/cqrs/1/</guid>
+      <guid>https://leaf-nam.github.io/posts/cqrs/1/</guid>
       <description>CQRS패턴을 구현하기 위한 DB이중화 기법에 대해 알아봅니다.</description>
     </item>
     <item>
       <title>깃허브 블로그 댓글 구현 : Utterances 도입기</title>
-      <link>https://1eaf.site/posts/gitblog/5/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/5/</link>
       <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/5/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/5/</guid>
       <description>블로그 댓글을 구현할 수 있는 utterances를 적용합니다.</description>
     </item>
     <item>
       <title>Git 연동과 정적 페이지 배포</title>
-      <link>https://1eaf.site/posts/gitblog/4/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/4/</link>
       <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/4/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/4/</guid>
       <description>생성한 블로그와 깃을 연동 후 웹페이지를 등록합니다.</description>
     </item>
     <item>
       <title>HUGO 기본 설치 및 사용법</title>
-      <link>https://1eaf.site/posts/gitblog/3/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/3/</link>
       <pubDate>Sun, 03 Mar 2024 07:49:45 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/3/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/3/</guid>
       <description>HUGO를 이제 직접 설치 및 세팅해보겠습니다.</description>
     </item>
     <item>
       <title>SSG에 대하여</title>
-      <link>https://1eaf.site/posts/gitblog/2/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/2/</link>
       <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/2/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/2/</guid>
       <description>SSG에 대해 알아보는 시간을 가집니다.</description>
     </item>
   </channel>

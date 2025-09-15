@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jwt on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/jwt/</link>
+    <link>https://leaf-nam.github.io/tags/jwt/</link>
     <description>Recent content in Jwt on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Sat, 14 Dec 2024 23:26:49 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]Spring Security(With TDD) JWT 라이브러리 활용해서 간편하게 구현하기</title>
-      <link>https://1eaf.site/posts/spring_security/6/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/6/</link>
       <pubDate>Sat, 14 Dec 2024 23:26:49 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/6/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/6/</guid>
       <description>JWT를 통한 인증을 oauth2-resource-server를 활용해서 간편하게 구현합니다.</description>
     </item>
     <item>
       <title>[Java]Spring Security(With TDD) JWT 직접 구현하기</title>
-      <link>https://1eaf.site/posts/spring_security/5/</link>
+      <link>https://leaf-nam.github.io/posts/spring_security/5/</link>
       <pubDate>Mon, 09 Dec 2024 22:01:51 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/spring_security/5/</guid>
+      <guid>https://leaf-nam.github.io/posts/spring_security/5/</guid>
       <description>JWT를 통한 인증을 직접 구현합니다.</description>
     </item>
   </channel>

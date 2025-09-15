@@ -2,145 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/categories/</link>
+    <link>https://leaf-nam.github.io/categories/</link>
     <description>Recent content in Categories on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Wed, 26 Mar 2025 10:27:18 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithm</title>
-      <link>https://1eaf.site/categories/algorithm/</link>
+      <link>https://leaf-nam.github.io/categories/algorithm/</link>
       <pubDate>Wed, 26 Mar 2025 10:27:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/algorithm/</guid>
+      <guid>https://leaf-nam.github.io/categories/algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>Infra</title>
-      <link>https://1eaf.site/categories/infra/</link>
+      <link>https://leaf-nam.github.io/categories/infra/</link>
       <pubDate>Tue, 11 Mar 2025 15:40:09 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/infra/</guid>
+      <guid>https://leaf-nam.github.io/categories/infra/</guid>
       <description></description>
     </item>
     <item>
       <title>Tinytips</title>
-      <link>https://1eaf.site/categories/tinytips/</link>
+      <link>https://leaf-nam.github.io/categories/tinytips/</link>
       <pubDate>Tue, 11 Mar 2025 15:40:09 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/tinytips/</guid>
+      <guid>https://leaf-nam.github.io/categories/tinytips/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://1eaf.site/categories/security/</link>
+      <link>https://leaf-nam.github.io/categories/security/</link>
       <pubDate>Sat, 14 Dec 2024 23:26:49 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/security/</guid>
+      <guid>https://leaf-nam.github.io/categories/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://1eaf.site/categories/spring/</link>
+      <link>https://leaf-nam.github.io/categories/spring/</link>
       <pubDate>Sat, 14 Dec 2024 23:26:49 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/spring/</guid>
+      <guid>https://leaf-nam.github.io/categories/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>Dfs</title>
-      <link>https://1eaf.site/categories/dfs/</link>
+      <link>https://leaf-nam.github.io/categories/dfs/</link>
       <pubDate>Tue, 03 Dec 2024 17:20:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/dfs/</guid>
+      <guid>https://leaf-nam.github.io/categories/dfs/</guid>
       <description></description>
     </item>
     <item>
       <title>Tree</title>
-      <link>https://1eaf.site/categories/tree/</link>
+      <link>https://leaf-nam.github.io/categories/tree/</link>
       <pubDate>Tue, 03 Dec 2024 17:20:52 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/tree/</guid>
+      <guid>https://leaf-nam.github.io/categories/tree/</guid>
       <description></description>
     </item>
     <item>
       <title>Dns</title>
-      <link>https://1eaf.site/categories/dns/</link>
+      <link>https://leaf-nam.github.io/categories/dns/</link>
       <pubDate>Wed, 20 Nov 2024 23:24:10 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/dns/</guid>
+      <guid>https://leaf-nam.github.io/categories/dns/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://1eaf.site/categories/java/</link>
+      <link>https://leaf-nam.github.io/categories/java/</link>
       <pubDate>Sat, 16 Nov 2024 23:23:44 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/java/</guid>
+      <guid>https://leaf-nam.github.io/categories/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Diary</title>
-      <link>https://1eaf.site/categories/diary/</link>
+      <link>https://leaf-nam.github.io/categories/diary/</link>
       <pubDate>Sun, 03 Nov 2024 18:18:14 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/diary/</guid>
+      <guid>https://leaf-nam.github.io/categories/diary/</guid>
       <description></description>
     </item>
     <item>
       <title>Book_title</title>
-      <link>https://1eaf.site/categories/book_title/</link>
+      <link>https://leaf-nam.github.io/categories/book_title/</link>
       <pubDate>Wed, 10 Jul 2024 11:41:32 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/book_title/</guid>
+      <guid>https://leaf-nam.github.io/categories/book_title/</guid>
       <description></description>
     </item>
     <item>
       <title>Concept</title>
-      <link>https://1eaf.site/categories/concept/</link>
+      <link>https://leaf-nam.github.io/categories/concept/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/concept/</guid>
+      <guid>https://leaf-nam.github.io/categories/concept/</guid>
       <description></description>
     </item>
     <item>
       <title>JPA</title>
-      <link>https://1eaf.site/categories/jpa/</link>
+      <link>https://leaf-nam.github.io/categories/jpa/</link>
       <pubDate>Mon, 13 May 2024 21:01:16 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/jpa/</guid>
+      <guid>https://leaf-nam.github.io/categories/jpa/</guid>
       <description></description>
     </item>
     <item>
       <title>TDD</title>
-      <link>https://1eaf.site/categories/tdd/</link>
+      <link>https://leaf-nam.github.io/categories/tdd/</link>
       <pubDate>Sun, 28 Apr 2024 23:38:18 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/tdd/</guid>
+      <guid>https://leaf-nam.github.io/categories/tdd/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>https://1eaf.site/categories/review/</link>
+      <link>https://leaf-nam.github.io/categories/review/</link>
       <pubDate>Sun, 14 Apr 2024 22:11:00 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/review/</guid>
+      <guid>https://leaf-nam.github.io/categories/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Unit Testing</title>
-      <link>https://1eaf.site/categories/unit-testing/</link>
+      <link>https://leaf-nam.github.io/categories/unit-testing/</link>
       <pubDate>Sun, 14 Apr 2024 19:37:37 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/unit-testing/</guid>
+      <guid>https://leaf-nam.github.io/categories/unit-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Database</title>
-      <link>https://1eaf.site/categories/database/</link>
+      <link>https://leaf-nam.github.io/categories/database/</link>
       <pubDate>Tue, 19 Mar 2024 20:20:06 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/database/</guid>
+      <guid>https://leaf-nam.github.io/categories/database/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog Management</title>
-      <link>https://1eaf.site/categories/blog-management/</link>
+      <link>https://leaf-nam.github.io/categories/blog-management/</link>
       <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/blog-management/</guid>
+      <guid>https://leaf-nam.github.io/categories/blog-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentation</title>
-      <link>https://1eaf.site/categories/documentation/</link>
+      <link>https://leaf-nam.github.io/categories/documentation/</link>
       <pubDate>Thu, 29 Feb 2024 06:16:48 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/categories/documentation/</guid>
+      <guid>https://leaf-nam.github.io/categories/documentation/</guid>
       <description></description>
     </item>
   </channel>

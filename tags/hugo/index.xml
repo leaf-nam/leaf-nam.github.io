@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/hugo/</link>
+    <link>https://leaf-nam.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Mon, 04 Mar 2024 16:50:39 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git 연동과 정적 페이지 배포</title>
-      <link>https://1eaf.site/posts/gitblog/4/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/4/</link>
       <pubDate>Mon, 04 Mar 2024 16:50:39 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/4/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/4/</guid>
       <description>생성한 블로그와 깃을 연동 후 웹페이지를 등록합니다.</description>
     </item>
     <item>
       <title>HUGO 기본 설치 및 사용법</title>
-      <link>https://1eaf.site/posts/gitblog/3/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/3/</link>
       <pubDate>Sun, 03 Mar 2024 07:49:45 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/3/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/3/</guid>
       <description>HUGO를 이제 직접 설치 및 세팅해보겠습니다.</description>
     </item>
     <item>
       <title>SSG에 대하여</title>
-      <link>https://1eaf.site/posts/gitblog/2/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/2/</link>
       <pubDate>Sat, 02 Mar 2024 07:28:40 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/2/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/2/</guid>
       <description>SSG에 대해 알아보는 시간을 가집니다.</description>
     </item>
   </channel>

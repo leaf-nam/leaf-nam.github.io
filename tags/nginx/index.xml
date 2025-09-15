@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nginx on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/nginx/</link>
+    <link>https://leaf-nam.github.io/tags/nginx/</link>
     <description>Recent content in Nginx on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Tue, 11 Mar 2025 15:40:09 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NGinX 심볼릭 링크 트러블슈팅</title>
-      <link>https://1eaf.site/tips/250311/</link>
+      <link>https://leaf-nam.github.io/tips/250311/</link>
       <pubDate>Tue, 11 Mar 2025 15:40:09 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/tips/250311/</guid>
+      <guid>https://leaf-nam.github.io/tips/250311/</guid>
       <description>NGinX 심볼릭 링크 생성 중 발생한 오류를 해결합니다.</description>
     </item>
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Utterances on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/utterances/</link>
+    <link>https://leaf-nam.github.io/tags/utterances/</link>
     <description>Recent content in Utterances on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Tue, 05 Mar 2024 19:08:20 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/utterances/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/tags/utterances/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>깃허브 블로그 댓글 구현 : Utterances 도입기</title>
-      <link>https://1eaf.site/posts/gitblog/5/</link>
+      <link>https://leaf-nam.github.io/posts/gitblog/5/</link>
       <pubDate>Tue, 05 Mar 2024 19:08:20 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/posts/gitblog/5/</guid>
+      <guid>https://leaf-nam.github.io/posts/gitblog/5/</guid>
       <description>블로그 댓글을 구현할 수 있는 utterances를 적용합니다.</description>
     </item>
   </channel>

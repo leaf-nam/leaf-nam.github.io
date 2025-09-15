@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Array on 봄을 기다리는 낙엽</title>
-    <link>https://1eaf.site/tags/array/</link>
+    <link>https://leaf-nam.github.io/tags/array/</link>
     <description>Recent content in Array on 봄을 기다리는 낙엽</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
     <lastBuildDate>Tue, 31 Dec 2024 09:49:24 +0900</lastBuildDate>
-    <atom:link href="https://1eaf.site/tags/array/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leaf-nam.github.io/tags/array/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Java]백준 17470 배열 돌리기 5</title>
-      <link>https://1eaf.site/cote/bj_17470/</link>
+      <link>https://leaf-nam.github.io/cote/bj_17470/</link>
       <pubDate>Tue, 31 Dec 2024 09:49:24 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
-      <guid>https://1eaf.site/cote/bj_17470/</guid>
+      <guid>https://leaf-nam.github.io/cote/bj_17470/</guid>
       <description>백준 17470 배열돌리기 5 문제에 대한 해설입니다.</description>
     </item>
   </channel>
