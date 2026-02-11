@@ -4,7 +4,7 @@
 통합테스트는 @SpringBootTest를 사용하면 /src/test/resources/application.properties에 있는 설정정보를 자동으로 불러오지만, 단위테스트에서는 해당 어노테이션이 너무 무겁기 때문에 사용할 수 없습니다.
 바로 코드로 알아보겠습니다.
 // 단위테스트가 필요한 클래스 내부에 해당 코드를 추가하면 완료입니다. import org.slf4j.LoggerFactory; import ch.qos.logback.classic.Level; import ch.qos.logback.classic.Logger; @BeforeAll public void setLogLevel() { final Logger logger = (Logger)LoggerFactory.getLogger(Logger.ROOT_LOGGER_NAME); logger.setLevel(Level.ALL); } 간단히 코드를 설명드리자면, 단위테스트 시작 전 LoggerFactory로 새로운 loogger를 생성하고 레벨을 변경한 후 테스트를 수행하기 위한 코드입니다.
-...</p></div><footer class=entry-footer><span title='2024-03-20 23:43:14 +0900 KST'>2024. 3. 20.</span>&nbsp;·&nbsp;1 분&nbsp;·&nbsp;106 단어&nbsp;·&nbsp;Leaf</footer><a class=entry-link aria-label="post link to Springboot Junit 단위테스트에서 로그 레벨 조정하기" href=https://leaf-nam.github.io/tips/240320/></a></article></main><footer class=footer><span>&copy; 2025 <a href=https://leaf-nam.github.io/>봄을 기다리는 낙엽</a></span> ·
+...</p></div><footer class=entry-footer><span title='2024-03-20 23:43:14 +0900 KST'>2024. 3. 20.</span>&nbsp;·&nbsp;1 분&nbsp;·&nbsp;106 단어&nbsp;·&nbsp;Leaf</footer><a class=entry-link aria-label="post link to Springboot Junit 단위테스트에서 로그 레벨 조정하기" href=https://leaf-nam.github.io/tips/240320/></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://leaf-nam.github.io/>봄을 기다리는 낙엽</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>

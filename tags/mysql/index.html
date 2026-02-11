@@ -10,7 +10,7 @@ build.gradle 실행 위에서 생성한 프로젝트의 jar파일을 풀고, bui
 Docker : v25.0.3 MySQL : v8.3.0 시작에 앞서 간단히 Replication의 원리를 확인해보겠습니다.
 Slave DB는 Master DB의 로그파일을 참조하여 변경사항을 업데이트 합니다.
 Master DB는 데이터 변경사항을 Binary log 파일에 저장합니다. Slave DB는 Binary log 파일의 변경사항을 감시하다가, 변경이 발생하면 해당 로그를 확인합니다. 변경사항을 Relay log파일에 적용합니다. SQL Thread는 Relay log파일의 변경사항을 감시하다가, 변경이 발생하면 DB에 반영합니다. 그럼 이제 본격적으로 MySQL Master DB와 Slave DB를 Docker 이미지로 생성하고, Replication 설정을 통해 Master DB의 변경사항을 Slave DB로 복제하는 실습을 진행하겠습니다.
-...</p></div><footer class=entry-footer><span title='2024-03-13 23:07:00 +0900 KST'>2024. 3. 13.</span>&nbsp;·&nbsp;6 분&nbsp;·&nbsp;1071 단어&nbsp;·&nbsp;Leaf</footer><a class=entry-link aria-label="post link to [MySQL]Replication Database 구현" href=https://leaf-nam.github.io/posts/cqrs/2/></a></article></main><footer class=footer><span>&copy; 2025 <a href=https://leaf-nam.github.io/>봄을 기다리는 낙엽</a></span> ·
+...</p></div><footer class=entry-footer><span title='2024-03-13 23:07:00 +0900 KST'>2024. 3. 13.</span>&nbsp;·&nbsp;6 분&nbsp;·&nbsp;1071 단어&nbsp;·&nbsp;Leaf</footer><a class=entry-link aria-label="post link to [MySQL]Replication Database 구현" href=https://leaf-nam.github.io/posts/cqrs/2/></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://leaf-nam.github.io/>봄을 기다리는 낙엽</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>

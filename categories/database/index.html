@@ -14,7 +14,7 @@ Master DB는 데이터 변경사항을 Binary log 파일에 저장합니다. Sla
 이러한 데이터베이스의 성능을 늘리기 위해 개발자들은 다양한 시도를 합니다. 그중에서도 이번에는 데이터베이스 이중화와 CQRS 패턴에 대해 알아보고, 이를 실제로 가상서버 및 코드로 구현해보려 합니다.
 DB 이중화 기법 데이터베이스 이중화에는 다양한 장점이 있습니다. 대표적으로
 장애 대응(Failover) : DB가 1개라면, 해당 DB가 다양한 원인1에 의해 장애가 발생했을 시 서비스 운영이 불가능합니다. DB를 이중화한다면 이러한 장애에 신속히 대응할 수 있으며, 차후 손실된 데이터를 복구하는 것도 가능합니다. 부하 분산(Load Balancing) : 하나의 DB가 받던 부하를 여러 DB로 분산한다면, 병목현상으로 인한 장애를 예방할 수 있을 뿐 아니라, 요청에 대한 신속한 응답을 기대할 수 있습니다. 또한, DB 이중화 기법을 통해 시스템의 두가지 성질을 달성할 수 있습니다.
-...</p></div><footer class=entry-footer><span title='2024-03-11 22:51:52 +0900 KST'>2024. 3. 11.</span>&nbsp;·&nbsp;4 분&nbsp;·&nbsp;651 단어&nbsp;·&nbsp;Leaf</footer><a class=entry-link aria-label="post link to DB 이중화 및 CQRS 패턴의 중요성" href=https://leaf-nam.github.io/posts/cqrs/1/></a></article></main><footer class=footer><span>&copy; 2025 <a href=https://leaf-nam.github.io/>봄을 기다리는 낙엽</a></span> ·
+...</p></div><footer class=entry-footer><span title='2024-03-11 22:51:52 +0900 KST'>2024. 3. 11.</span>&nbsp;·&nbsp;4 분&nbsp;·&nbsp;651 단어&nbsp;·&nbsp;Leaf</footer><a class=entry-link aria-label="post link to DB 이중화 및 CQRS 패턴의 중요성" href=https://leaf-nam.github.io/posts/cqrs/1/></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://leaf-nam.github.io/>봄을 기다리는 낙엽</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
