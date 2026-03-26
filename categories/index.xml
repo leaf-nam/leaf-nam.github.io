@@ -4,12 +4,19 @@
     <title>Categories on 봄을 기다리는 낙엽</title>
     <link>https://leaf-nam.github.io/categories/</link>
     <description>Recent content in Categories on 봄을 기다리는 낙엽</description>
-    <generator>Hugo -- 0.138.0</generator>
+    <generator>Hugo</generator>
     <language>ko</language>
     <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
     <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
-    <lastBuildDate>Wed, 26 Mar 2025 10:27:18 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 08:59:46 +0900</lastBuildDate>
     <atom:link href="https://leaf-nam.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rtos, Linux</title>
+      <link>https://leaf-nam.github.io/categories/rtos-linux/</link>
+      <pubDate>Thu, 26 Mar 2026 08:59:46 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://leaf-nam.github.io/categories/rtos-linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Algorithm</title>
       <link>https://leaf-nam.github.io/categories/algorithm/</link>

@@ -47,17 +47,42 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/posts/rtos/rtos-context-switch-bus-fault/</loc>
-    <lastmod>2026-02-11T10:27:45+09:00</lastmod>
+    <loc>https://leaf-nam.github.io/categories/</loc>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/linux-kernel-device-fpga-soc/</loc>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://leaf-nam.github.io/posts/</loc>
-    <lastmod>2026-02-11T10:27:45+09:00</lastmod>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leaf-nam.github.io/categories/rtos-linux/</loc>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leaf-nam.github.io/tags/</loc>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://leaf-nam.github.io/</loc>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leaf-nam.github.io/posts/rtos/embedded-linux-device-tree-understand/</loc>
+    <lastmod>2026-03-26T08:59:46+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leaf-nam.github.io/posts/rtos/rtos-context-switch-bus-fault/</loc>
     <lastmod>2026-02-11T10:27:45+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -72,22 +97,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/categories/</loc>
-    <lastmod>2025-03-26T10:27:18+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://leaf-nam.github.io/tags/codingtest/</loc>
     <lastmod>2025-03-26T10:27:18+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://leaf-nam.github.io/tags/programmers/</loc>
-    <lastmod>2025-03-26T10:27:18+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://leaf-nam.github.io/tags/</loc>
     <lastmod>2025-03-26T10:27:18+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -497,12 +512,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/tags/diary/</loc>
+    <loc>https://leaf-nam.github.io/categories/diary/</loc>
     <lastmod>2024-11-03T18:18:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/categories/diary/</loc>
+    <loc>https://leaf-nam.github.io/tags/diary/</loc>
     <lastmod>2024-11-03T18:18:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -587,12 +602,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/tags/concept/</loc>
+    <loc>https://leaf-nam.github.io/categories/concept/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/categories/concept/</loc>
+    <loc>https://leaf-nam.github.io/tags/concept/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -602,12 +617,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/tags/jpa/</loc>
+    <loc>https://leaf-nam.github.io/categories/jpa/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/categories/jpa/</loc>
+    <loc>https://leaf-nam.github.io/tags/jpa/</loc>
     <lastmod>2024-05-13T21:01:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -887,12 +902,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/tags/documentation/</loc>
+    <loc>https://leaf-nam.github.io/categories/documentation/</loc>
     <lastmod>2024-02-29T06:16:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://leaf-nam.github.io/categories/documentation/</loc>
+    <loc>https://leaf-nam.github.io/tags/documentation/</loc>
     <lastmod>2024-02-29T06:16:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

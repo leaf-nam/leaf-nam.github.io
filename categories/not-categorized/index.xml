@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Not Categorized on 봄을 기다리는 낙엽</title>
+    <link>http://localhost:1313/categories/not-categorized/</link>
+    <description>Recent content in Not Categorized on 봄을 기다리는 낙엽</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
+    <lastBuildDate>Thu, 26 Mar 2026 08:59:46 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/not-categorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java]Embedded-Linux-Device-Tree-Understand</title>
+      <link>http://localhost:1313/posts/rtos/embedded-linux-device-tree-understand/</link>
+      <pubDate>Thu, 26 Mar 2026 08:59:46 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>http://localhost:1313/posts/rtos/embedded-linux-device-tree-understand/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

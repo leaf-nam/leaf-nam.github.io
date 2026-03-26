@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rtos, Linux on 봄을 기다리는 낙엽</title>
+    <link>https://leaf-nam.github.io/categories/rtos-linux/</link>
+    <description>Recent content in Rtos, Linux on 봄을 기다리는 낙엽</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <managingEditor>spearoad15@gmail.com (Sangyeop Nam)</managingEditor>
+    <webMaster>spearoad15@gmail.com (Sangyeop Nam)</webMaster>
+    <lastBuildDate>Thu, 26 Mar 2026 08:59:46 +0900</lastBuildDate>
+    <atom:link href="https://leaf-nam.github.io/categories/rtos-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>임베디드 리눅스에서 커널 시스템 콜과 디바이스 트리 동작원리 이해하기</title>
+      <link>https://leaf-nam.github.io/posts/rtos/embedded-linux-device-tree-understand/</link>
+      <pubDate>Thu, 26 Mar 2026 08:59:46 +0900</pubDate><author>spearoad15@gmail.com (Sangyeop Nam)</author>
+      <guid>https://leaf-nam.github.io/posts/rtos/embedded-linux-device-tree-understand/</guid>
+      <description>임베디드 리눅스가 커널 시스템 콜과 디바이스 트리를 사용해서 어떻게 사용자 요청을 지원하는지 알아보겠습니다.</description>
+    </item>
+  </channel>
+</rss>
